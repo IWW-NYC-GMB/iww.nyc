@@ -1,0 +1,57 @@
+---
+layout: page
+title: News
+---
+{% for post in paginator.posts %}
+  {% if post.categories contains 'news' %}
+	<div style="margin-bottom:100px;">
+    <span style="text-align:center;">
+		<h3 class="title"><a style="color:rgba(33,33,33,1);font-size:45px;line-height:1.2;" href="{{ post.url }}">{{ post.title }}</a></h3>
+		<p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+  </span><br>
+		<div class="entry">
+			{% if post.netlify == true %}
+				{{ post.content | newline_to_br | newline_to_br | replace: "<h2", "<h3" | replace: "</h2>", "</h3>" | replace: "</h3><br /><br />", "</h3>" | replace: "</p><br /><br />", "</p><br />" }}
+			{% else %}
+				{{ post.content }}
+			{% endif %}
+		</div>
+	</div>
+  {% endif %}
+{% endfor %}
+
+<div style="text-align:center;word-spacing:10px;">
+{% if paginator.total_pages > 1 %}
+<div>
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">
+      &#9664;&#xFE0E;
+    </a>
+  {% else %}
+    <span>&#9664;&#xFE0E;</span>
+  {% endif %}
+	<span style="font-size:20px !important;">
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <strong>{{ page }}</strong>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">
+        {{ page }}
+      </a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+        {{ page }}
+      </a>
+    {% endif %}
+  {% endfor %}
+	</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">
+      &#9654;&#xFE0E;
+    </a>
+  {% else %}
+    <span>&#9654;&#xFE0E;</span>
+  {% endif %}
+</div>
+{% endif %}
+</div>
