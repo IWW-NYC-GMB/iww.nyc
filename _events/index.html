@@ -1,0 +1,19 @@
+---
+layout: page
+title: Events
+permalink: /events/
+---
+{% for item in site.events %}
+  {% if item.date >= site.time %}
+    <a href="{{ item.url }}"><div class="date-box"><p style="font-weight:300;">{{ item.date | date: "%b" }}<br><span style="font-size:32px;">{{ item.date | date: "%e" }}</span></p></div></a>
+    <div style="padding-left:107px;margin-bottom:60px;" id="events-main-info">
+      <a href="{{ item.url }}"><h2>{{ item.title }}</h2></a>
+      <p>{{ item.date | date: "%A, %B %-d, %Y" }}
+        <br>
+        {{ item.time }}</p>
+    </div>
+    <br>
+  {% endif %}
+{% endfor %}
+<a href="https://calendar.google.com/calendar/embed?src=nycgdc@protonmail.com">Subscribe to the NYC General Defense Committee (GDC) Google Calendar.</a><br>
+Email <a href="mailto:nycgdc@protonmail.com">nycgdc@protonmail.com</a> (<a href="{{site.baseurl}}/assets/keys/publickey.nycgdc@protonmail.com.asc">public key</a>) to submit radical events in and around New York City to the NYC GDC Calendar.

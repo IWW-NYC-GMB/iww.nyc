@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<div class="home">
+    <h3 style="text-align:center;font-weight:700;font-size:25px;"><em>The IWW is a union for all workers — One Big Union!<br>
+    Join the NYC General Membership Branch today!</em></h3>
+  <div style="text-align:center;">
+
+    <a href="{{site.baseurl}}/join"><button class="large" style="margin:24px 15px 12px 15px;" ontouchstart="">Join the IWW</button></a>
+
+    <span style="width:60px;"></span>
+
+    <a href="{{site.baseurl}}/dues"><button class="large" style="margin: 12px 15px 24px 15px;" ontouchstart="">Pay Your Dues</button></a>
+
+  </div>
+  <p style="text-align:center;">
+    <em>As long as you are a worker – not an employer – you can join the IWW. Members of other unions (except officers), students, retirees, the unemployed, the self-employed, those in informal professions, and those unable to work may also join. <a href="{{site.baseurl}}/why-join">Learn why you should join the IWW.</a></em><br><br>
+  </p>
+
+  <hr style="margin:20px 0 50px 0;">
+
+      <p style="text-align:center;font-weight:700;font-size:22px;">IWW NYC General Membership Branch meetings are held the second Tuesday of each month from {{ site.data.next_meeting["meeting_time"] }}.</p>
+      <p style="text-align:center;font-size:18px;"><br>
+        <em>The next meeting of the IWW NYC General Membership Branch will be on {{ site.data.next_meeting["next_meeting_date"] }}. <a href="{{ site.data.next_meeting["next_meeting_url"] }}">Details ▸</a></em>
+      </p><br>
+
+  <hr style="margin:20px 0 50px 0;">
+
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup" style="text-align:center;background:rgba(0,0,0,.05);padding:40px 110px 15px 110px;">
+    <form action="https://wobblycity.us16.list-manage.com/subscribe/post?u=b5aacdc67328813578df54304&amp;id=651ba871ed" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    	<h1 style="line-height:35px;"><strong>Subscribe to Our Newsletter</strong></h1>
+      <p style="font-weight:300;"><em>Sign up with your email address to receive our monthly newsletter with news and events concerning the New York City General Membership Branch.</em></p>
+      <div style="margin:30px 0px;" id="email-input">
+    	<input type="email" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email Address" style="height:20px;width:245px;padding:15px;font-size:16px;font-weight:200;margin-right:15px;max-width:60%;border:.5px solid #A9A9A9;border-radius:0px;" required>
+    <button type="submit" name="subscribe" class="newsletter" name="subscribe" id="mc-embedded-subscribe" ontouchstart="">Sign Up</button>
+  </div>
+        <p style="font-size:12px;font-weight:100;line-height:normal;">We respect your privacy. Your contact information will never be shared with any third parties. We use Mailchimp to send our newsletter; <a href="https://mailchimp.com/legal/privacy/">read their privacy policy</a>.</p>
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        </div>
+    </form>
+    </div>
+    <!--End mc_embed_signup-->
+
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align:center;">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="VBXMFQD43VNGE">
+    <div style="padding-top: 20px; padding-bottom: 0;" data-block-type="53">
+    <button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
+    </div></div>
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form>
+    <script>
+        if (location.hash == "#donate") {
+         	document.getElementById('pp-donate').click();
+        }
+    </script>
+</div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>

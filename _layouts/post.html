@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article>
+
+  <header style="text-align:center;">
+    <h1 style="font-size:38px;line-height:1.2;">{{ page.title | escape }}</h1>
+    <p>
+      <time>
+        {{ page.date | date: "%b %-d, %Y" }}
+      </time>
+      {%- if page.author -%}
+        <br>{{ page.author }}
+      {%- endif -%}</p>
+  </header></br>
+
+  <div>
+  {% if page.netlify == true %}
+    {{ content | newline_to_br | newline_to_br | replace: "<h2", "<h3" | replace: "</h2>", "</h3>" | replace: "</h3><br /><br />", "</h3>" | replace: "</p><br /><br />", "</p><br />" }}
+  {% else %}
+    {{ content }}
+  {% endif %}
+  </div>
+
+</article>

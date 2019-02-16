@@ -1,0 +1,144 @@
+/**
+ * Site header
+ */
+.site-header {
+  border-top: 0px;
+  border-bottom: 0px;
+  min-height: 30px * 1.865;
+  position: relative;
+}
+
+.site-title {
+  @include relative-font-size(1.625);
+  font-weight: 300;
+  line-height: 1.5 * 16px * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: #828282-dark;
+  }
+}
+
+#select-nav {
+  margin-right: auto;
+  margin-left: auto;
+  border: none;
+  font-size: 16px;
+  display: none;
+  max-width: 85%;
+  position: absolute !important;
+  opacity: 0;
+  vertical-align: middle;
+}
+
+#current-selection {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1.3em;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 24px;
+  color: hsl(356, 68%, 41%);
+  text-transform: uppercase;
+  display: none;
+  max-width: 85%;
+}
+
+.site-nav {
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  margin-top: 45px;
+  margin-bottom: 20px;
+  color: hsl(0, 0%, 23%);
+
+    & a:hover {
+      color: hsl(356, 68%, 41%);
+    }
+  }
+
+.page-link {
+    color: rgb(59, 59, 59);
+    line-height: 1.5;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 26px;
+  }
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+  padding: 30px 0;
+}
+
+/**
+ * Page content
+ */
+.page-content {
+  padding: 30px 0;
+  flex: 1;
+}
+
+.page-heading {
+  @include relative-font-size(2);
+  text-align: center;
+}
+
+.post-list-heading {
+  @include relative-font-size(1.75);
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    margin-bottom: 30px;
+  }
+}
+
+.post-meta {
+  font-size: 14px;
+  color: #828282;
+}
+
+.post-link {
+  display: block;
+  @include relative-font-size(1.5);
+}
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: 30px;
+}
+
+.post-title {
+  @include relative-font-size(2.625);
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+
+  @include media-query(820px) {
+    @include relative-font-size(2.25);
+  }
+}
+
+.event img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}

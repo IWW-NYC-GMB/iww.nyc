@@ -1,0 +1,185 @@
+---
+layout: form
+title: Make a One-Time Dues Payment or Pay Past Dues
+permalink: /past-dues/
+heading: true
+---
+<span style="text-align:center;"><h2><em><strong>Dues keep us going. Pay your dues online or in person to remain a member in good standing and to keep our union growing.</strong></em></h2><br></span>
+<br>
+<div id="break">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" class="pp-sub dues" name="pp-form" onsubmit="calcCost()">
+<div id="form-cube" class="show-front">
+<div class="side" id="front">
+<input type="hidden" name="reattempt" value="1">
+<input type="hidden" name="no_shipping" value="3">
+<input type="hidden" name="return" value="https://wobblycity.org/thanks-for-past-dues">
+<input type="hidden" name="notify_url" value="https://wobblycity.us16.list-manage.com/subscribe/paypal-ipn?u=b5aacdc67328813578df54304&id=e6fa481790">
+<input type="hidden" name="image_url" value="{{site.url}}/assets/paypal.png">
+<input type="hidden" name="business" value="treasurer@wobblycity.org">
+<input type="hidden" name="item_name" value="Past Dues">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="amount" id="amount" value="">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="on0" value="Dues Level"><span style="font-size:2em; font-weight:bold;">Dues Level<br></span>
+<div class="duesLevels dues">
+<div>
+<input type="radio" id="11-radio" name="os0" value="11.00" checked>
+<label for="11-radio"><span style="font-weight:bold;">$11</span><br><span style="font-size:medium;">If you make less than $2,000 per month.</span></label>
+<div class="check"></div>
+</div>
+<div>
+<input type="radio" id="22-radio" name="os0" value="22.00">
+<label for="22-radio"><span style="font-weight:bold;">$22</span><br><span style="font-size:medium;">If you make between $2,000 and $3,500 per month.</span></label>
+<div class="check"></div>
+</div>
+<div>
+<input type="radio" id="33-radio" name="os0" value="33.00">
+<label for="33-radio"><span style="font-weight:bold;">$33</span><br><span style="font-size:medium;">If you make more than $3,500 per month.</span></label>
+<div class="check"></div>
+</div>
+<div>
+<input type="radio" id="6-radio" name="os0" value="6.00">
+<label for="6-radio"><span style="font-weight:bold;">$6</span><br><span style="font-size:medium;">If you are financially burdened.</span></label>
+<div class="check"></div>
+</div>
+</div>
+<div style="padding-top: 20px; padding-bottom: 0;">
+<button type="button" class="large" id="continue-button" onclick="flipForm()" ontouchstart="">Continue &#x25B6;&#xFE0E;</button>
+</div>
+</div>
+<div class="side" id="right">
+<input type="hidden" name="on1" value="X Number"><span style="font-size:2em; font-weight:bold;">Membership Number<br></span>
+<input type="text" name="os1" maxlength="8" style="margin-top:12px;text-transform:uppercase;" required>
+<br><p style="font-size:small;padding-top:8px;">Your membership number can be found in your Red Card.</p>
+<input type="hidden" name="on2" value="IU"><span style="font-size:2em; font-weight:bold;">Industrial Union<br></span>
+<label class="pp-select"><select name="os2" id="pp-select" onchange="setIU(this)" required>
+<option selected disabled rel="Select your IU" value="">Select IU</option>
+<option disabled rel="-- Department 100 - Agriculture and Fisheries">-- Department 100 - Agriculture and Fisheries</option>
+<option value="110" rel="IU 110 - Agricultural Workers">IU 110 - Agricultural Workers</option>
+<option value="120" rel="IU 120 - Lumber Workers">IU 120 - Forest and Lumber Workers</option>
+<option value="130" rel="IU 130 - Fishery Workers">IU 130 - Fishery Workers</option>
+<option value="140" rel="IU 140 - Greenhouse & Nursery Workers">IU 140 - Greenhouse & Nursery Workers</option>
+<option disabled rel="-- Department 200 - Mining and Energy">-- Department 200 - Mining and Energy</option>
+<option value="210" rel="IU 210 - Mine Workers">IU 210 - Mine Workers</option>
+<option value="220" rel="IU 220 - Energy Workers">IU 220 - Energy Workers</option>
+<option disabled rel="-- Department 300 - General Construction">-- Department 300 - General Construction</option>
+<option value="310" rel="IU 310 - Civil Construction Workers">IU 310 - Civil Construction Workers</option>
+<option value="320" rel="IU 320 - Ship and Boat Builders">IU 320 - Ship and Boat Builders</option>
+<option value="330" rel="IU 330 - Building Construction Workers">IU 330 - Building Construction Workers</option>
+<option value="340" rel="IU 340 - Building Maintenance and Landscaping Workers">IU 340 - Building Maintenance and Landscaping Workers</option>
+<option disabled rel="-- Department 400 - Manufacture and General Production">-- Department 400 - Manufacture and General Production</option>
+<option value="410" rel="IU 410 - Textile and Leather Workers">IU 410 - Textile and Leather Workers</option>
+<option value="420" rel="IU 420 - Wood Processing and Furniture Workers">IU 420 - Wood Processing and Furniture Workers</option>
+<option value="430" rel="IU 430 - Chemical Workers">IU 430 - Chemical Workers</option>
+<option value="440" rel="IU 440 - Metal and Machinery Workers">IU 440 - Metal and Machinery Workers</option>
+<option value="450" rel="IU 450 - Printing and Publishing Workers">IU 450 - Printing and Publishing Workers</option>
+<option value="460" rel="IU 460 - Food Product Workers">IU 460 - Food Product Workers</option>
+<option value="470" rel="IU 470 - Electronics and Instrument Workers">IU 470 - Electronics and Instrument Workers</option>
+<option value="480" rel="IU 480 - Glass, Pottery, and Mineral Workers">IU 480 - Glass, Pottery, and Mineral Workers</option>
+<option value="490" rel="IU 490 - Pulp and Paper Mill Workers">IU 490 - Pulp and Paper Mill Workers</option>
+<option disabled rel="-- Department 500 - Transportation and Communication">-- Department 500 - Transportation and Communication</option>
+<option value="510" rel="IU 510 - Marine Workers">IU 510 - Marine Workers</option>
+<option value="520" rel="IU 520 - Railroad Workers">IU 520 - Railroad Workers</option>
+<option value="530" rel="IU 530 - Ground Transportation and Transit Workers">IU 530 - Ground Transportation and Transit Workers</option>
+<option value="540" rel="IU 540 - Postal, Express, and Message Delivery Workers">IU 540 - Postal, Express, and Message Delivery Workers</option>
+<option value="550" rel="IU 550 - Air Transport Workers">IU 550 - Air Transport Workers</option>
+<option value="560" rel="IU 560 - General Distribution Workers">IU 560 - General Distribution Workers</option>
+<option value="570" rel="IU 570 - Communications and Internet Technology Workers">IU 570 - Communications and Internet Technology Workers</option>
+<option value="580" rel="IU 580 - Information Service Workers">IU 580 - Information Service Workers</option>
+<option value="590" rel="IU 590 - Video, Audio, and Film Production Workers">IU 590 - Video, Audio, and Film Production Workers</option>
+<option disabled rel="-- Department 600 - Public Service">-- Department 600 - Public Service</option>
+<option value="610" rel="IU 610 - Health Service Workers">IU 610 - Health Service Workers</option>
+<option value="613" rel="IU 613 - Incarcerated Workers">IU 613 - Incarcerated Workers</option>
+<option value="620" rel="IU 620 - Education and Research Workers">IU 620 - Education and Research Workers</option>
+<option value="630" rel="IU 630 - Performing Arts, Recreation, and Tourism Workers">IU 630 - Performing Arts, Recreation, and Tourism Workers</option>
+<option value="631" rel="IU 631 - Freelance and Temporary Workers">IU 631 - Freelance and Temporary Workers</option>
+<option value="640" rel="IU 640 - Restaurant, Hotel, and Catering Workers">IU 640 - Restaurant, Hotel, and Catering Workers</option>
+<option value="650" rel="IU 650 - General, Legal, Public Interest, and Financial Office Workers">IU 650 - General, Legal, Public Interest, and Financial Office Workers</option>
+<option value="651" rel="IU 651 - Government Workers">IU 651 - Government Workers</option>
+<option value="660" rel="IU 660 - Retail Workers">IU 660 - Retail Workers</option>
+<option value="670" rel="IU 670 - Utility & Sanitation Workers">IU 670 - Utility & Sanitation Workers</option>
+<option value="680" rel="IU 680 - Household and Personal Service Workers">IU 680 - Household and Personal Service Workers</option>
+<option value="690" rel="IU 690 - Sex Industry Workers">IU 690 - Sex Industry Workers</option>
+</select>
+</label>
+<br><p style="font-size:small;padding-top:8px;">Your industrial union number can be found in your Red Card.</p>
+<input type="hidden" name="on3" value="Last Delegate Paid"><span style="font-size:2em; font-weight:bold;">Last Delegate Paid<br></span>
+<input type="text" name="os3" maxlength="4" style="margin-top:12px;text-transform:uppercase;" required>
+<br><p style="font-size:small;padding-top:8px;">The last delegate you paid is the numbers written at the latest stamp in your Red Card.</p>
+<input type="hidden" name="on4" value="Last Month Paid"><span style="font-size:2em; font-weight:bold;">Last Month Paid<br></span>
+<label class="pp-select"><select name="os4" id="pp-select" required>
+<option selected disabled rel="Select Last Month Paid" value=""> Select Month </option>
+<option value="January">January</option>
+<option value="February">February</option>
+<option value="March">March</option>
+<option value="April">April</option>
+<option value="May">May</option>
+<option value="June">June</option>
+<option value="July">July</option>
+<option value="August">August</option>
+<option value="September">September</option>
+<option value="October">October</option>
+<option value="November">November</option>
+<option value="December">December</option>
+</select>
+</label>
+<br><p style="font-size:small;padding-top:8px;">The last month you paid is written on the latest stamp in your Red Card.</p>
+<input type="hidden" name="on5" value="Last Date Paid"><span style="font-size:2em; font-weight:bold;">Last Date Paid<br></span>
+<input type="date" name="os5" maxlength="20" style="margin-top:12px;" placeholder="mm / dd / yyyy" required>
+<br><p style="font-size:small;padding-top:8px;">The last date you paid is written at the bottom of the latest stamp in your Red Card.</p>
+<input type="hidden" name="on6" value="Months Owed"><span style="font-size:2em; font-weight:bold;">Months to Pay<br></span>
+<input type="number" name="os6" id="monthsOwed" maxlength="7" style="margin-top:12px;text-transform:uppercase;" required>
+<br><p style="font-size:small;padding-top:8px;">How many months of dues would you like to pay?</p>
+<div style="padding-top: 20px; padding-bottom: 0;">
+<button type="button" class="small" id="back-button" onclick="flipFormBack()" ontouchstart="">&#x25C0;&#xFE0E; Back</button>
+</div>
+<div style="padding-top: 20px; padding-bottom: 0;">
+<button type="submit" class="large" ontouchstart="">Pay Your Past Dues</button>
+</div>
+</div>
+</div>
+</form>
+</div><br>
+
+<script>
+var frontHeight = document.getElementById("front").offsetHeight;
+document.getElementById("break").style.height = frontHeight + "px";
+
+var rightHeight = document.getElementById("right").offsetHeight;
+
+function flipForm() {
+	document.getElementById("form-cube").className = "show-right";
+	document.getElementById("break").style.height = rightHeight + "px";
+	document.getElementById("front").style.opacity = "0";
+	document.getElementById("right").style.opacity = "1";
+}
+
+function flipFormBack() {
+	document.getElementById("form-cube").className = "show-front";
+	document.getElementById("break").style.height = frontHeight + "px";
+	document.getElementById("front").style.opacity = "1";
+	document.getElementById("right").style.opacity = "0";
+}
+
+function setIU(elem) {
+	for(i=0; i<elem.options.length; i++) {
+		elem.options[i].innerHTML = (i == elem.selectedIndex) ? "IU " + elem.options[i].value : elem.options[i].getAttribute("rel");
+	}
+}
+
+function calcCost() {
+	var duesLevel = document.querySelector('input[name="os0"]:checked').value;
+	var monthsOwed = document.getElementById("monthsOwed").value;
+	document.getElementById("amount").value = duesLevel * monthsOwed;
+}
+</script>
+
+<div style="z-index:10;">
+<p>
+Paying dues directly to the GMB (as opposed to the GHQ through Red Card) allows the branch to retain half of your dues (as opposed to none).<br><br>
+You can pay dues online or in person with a delegate from our branch. When paying online, you'll receive an envelope in the mail with a stamp to place in your Red Card. If you prefer to pay in person with a delegate, come to one of our <a href="{{site.baseurl}}/events">meetings or <a href="contact">contact us</a>.<br><br>
+Income changed? <a href="{{site.baseurl}}/contact">Contact us!</a><br><br>
+Not a member? <a href="{{site.baseurl}}/join">Join today!</a><br><br>
+Online dues are processed using PayPal. <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full">Read PayPal's privacy policy.</a>
+</p>
+</div>

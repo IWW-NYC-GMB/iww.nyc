@@ -1,0 +1,49 @@
+title: IWW NYC GMB · Industrial Workers of the World
+email: nyc-gmb@wobblycity.org
+baseurl: ""
+url: "https://wobblycity.org"
+description: The latest news and happenings from the NYC Industrial Workers of the World! · An injury to one is an injury to all.
+
+future: true
+
+twitter_username: iwwnyc
+github_username: iwwnyc
+facebook_username: iwwnyc
+instagram_username: iwwnyc
+
+social:
+  name: IWW NYC GMB
+  links:
+    - https://www.twitter.com/iwwnyc
+    - https://www.facebook.com/iwwnyc
+    - https://instagram.com/iwwnyc
+    - https://github.com/iwwnyc
+
+twitter:
+  username: iwwnyc
+  card: summary
+
+facebook:
+  publisher: iwwnyc
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+image: /assets/social.png
+logo: /assets/logo.png
+
+collections:
+  events:
+    output: true
+    path: ""
+    permalink: /events/:path/
+
+paginate: 5
+paginate_path: "/news/:num/"

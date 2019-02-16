@@ -1,0 +1,68 @@
+backend:
+ name: github
+ repo: IWW-NYC-GMB/IWW-NYC-GMB.github.io # Path to your GitHub repository
+  
+#backend:
+# name: test-repo
+
+display_url: https://wobblycity.org
+
+logo_url: /assets/iww_netlify.png
+
+publish_mode: editorial_workflow
+
+media_folder: "assets/uploads"
+
+collections:
+  - name: "news"
+    editor:
+      preview: false
+    label: "News" # Used in the UI
+    label_singular: "news item"
+    folder: "news/_posts" # The path to the folder where the documents are stored
+#    extension: html
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Permalink", name: "permalink", widget: "hidden", default: "/:categories/:year/:i_month/:i_day/:slug"}
+      - {label: "Netlify", name: "netlify", widget: "hidden", default: true}
+      - {label: "Send to Mailchimp", name: "newsletter", widget: "boolean", hint: "Send this post as a Mailchimp newsletter", required: false}
+      - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "code-block", "bulleted-list", "numbered-list"]}
+  - name: "events"
+    editor:
+      preview: false
+    label: "Events"
+    label_singular: "event"
+    folder: "_events"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
+      - {label: "Time", name: "time", widget: "string"}    
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "next_meeting"
+    label: "Next Meeting Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - name: "settings"
+        label: "Next Meeting Settings"
+        file: "_data/next_meeting.yml"
+        description: "Next Meeting Settings"
+        fields:
+          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
+          - {label: "Meeting Time", name: "meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/event/month-year/"}
+#          - label: "Event search"
+#            name: "search"
+#            hint: "Not currently functional"
+#            widget: "relation"
+#            collection: "events"
+#            searchFields: ["title"]
+#            valueField: "slug"
+#            displayFields: ["title", "slug"]
