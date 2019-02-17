@@ -1,6 +1,6 @@
 backend:
  name: github
- repo: IWW-NYC-GMB/IWW-NYC-GMB.github.io # Path to your GitHub repository
+ repo: IWW-NYC-GMB/IWW-NYC-GMB.github.io
   
 #backend:
 # name: test-repo
@@ -17,20 +17,20 @@ collections:
   - name: "news"
     editor:
       preview: false
-    label: "News" # Used in the UI
+    label: "News"
     label_singular: "news item"
-    folder: "news/_posts" # The path to the folder where the documents are stored
+    folder: "news/_posts"
 #    extension: html
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date"}
       - {label: "Permalink", name: "permalink", widget: "hidden", default: "/:categories/:year/:i_month/:i_day/:slug"}
       - {label: "Netlify", name: "netlify", widget: "hidden", default: true}
       - {label: "Send to Mailchimp", name: "newsletter", widget: "boolean", hint: "Send this post as a Mailchimp newsletter", required: false}
-      - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "code-block", "bulleted-list", "numbered-list"]}
+      - {label: "Body", name: "body", hint: "To format correctly, enter the markdown editor mode and delete any blank line breaks. There should be no gaps between lines of text when in the markdown editor.", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "code-block", "bulleted-list", "numbered-list"]}
   - name: "events"
     editor:
       preview: false
@@ -46,7 +46,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "next_meeting"
     label: "Next Meeting Settings"
-    delete: false # Prevent users from deleting documents in this collection
+    delete: false
     editor:
       preview: false
     files:
