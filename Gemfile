@@ -9,3 +9,5 @@ gem "jekyll"
 gem "kramdown"
 
 gem "jekyll-sitemap"
+
+gem "jekyll-seo-tag"
