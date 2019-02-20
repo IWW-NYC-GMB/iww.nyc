@@ -8,6 +8,8 @@ gem "jekyll"
 
 gem "kramdown"
 
+gem "jekyll-paginate"
+
 gem "jekyll-sitemap"
 
 gem "jekyll-seo-tag"
