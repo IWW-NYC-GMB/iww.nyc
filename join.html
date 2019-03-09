@@ -13,7 +13,7 @@ Join the NYC General Membership Branch today!</em></h3><br>
 <input type="hidden" name="no_shipping" value="3">
 <input type="hidden" name="return" value="https://wobblycity.org/thanks-for-joining">
 <input type="hidden" name="image_url" value="{{site.url}}/assets/paypal.png">
-<input type="hidden" name="business" value="treasurer@wobblycity.org">
+<input type="hidden" name="business" value="{{ site.paypal| cgi_escape | escape }}">
 <input type="hidden" name="cmd" value="_xclick-subscriptions">
 <input type="hidden" name="item_name" value="IWW NYC GMB Online Dues">
 <input type="hidden" name="currency_code" value="USD">
