@@ -10,4 +10,4 @@ Join the IWW NYC GMB on the second Tuesday of each month to learn more about how
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) for location details.
 
-[Facebook Event](https://www.facebook.com/events/1872625292793129)
+[Facebook Event](https://www.facebook.com/events/314668802584425/?event_time_id=314668805917758)
