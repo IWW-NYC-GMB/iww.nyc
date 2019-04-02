@@ -5,7 +5,7 @@ permalink: /join/
 heading: true
 ---
 <h3 style="text-align:center;font-weight:700;font-size:25px;"><em>The IWW is a union for all workers — One Big Union!<br>
-Join the NYC General Membership Branch today!</em></h3><br>
+Join the NYC General Membership Branch today! {{ site.paypal | cgi_escape | escape }} {{ site.paypal | cgi_escape }} {{ site.paypal }}</em></h3><br>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pp-sub join" onsubmit="setDues()">
 <input type="hidden" name="custom" value="Joined">
 <input type="hidden" name="notify_url" value="https://wobblycity.us16.list-manage.com/subscribe/paypal-ipn?u=b5aacdc67328813578df54304&id=232e15e038">
@@ -13,7 +13,7 @@ Join the NYC General Membership Branch today!</em></h3><br>
 <input type="hidden" name="no_shipping" value="3">
 <input type="hidden" name="return" value="https://wobblycity.org/thanks-for-joining">
 <input type="hidden" name="image_url" value="{{site.url}}/assets/paypal.png">
-<input type="hidden" name="business" value="{{ site.paypal| cgi_escape | escape }}">
+<input type="hidden" name="business" value="{{ site.paypal | cgi_escape | escape }}">
 <input type="hidden" name="cmd" value="_xclick-subscriptions">
 <input type="hidden" name="item_name" value="IWW NYC GMB Online Dues">
 <input type="hidden" name="currency_code" value="USD">
