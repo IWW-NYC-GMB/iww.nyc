@@ -45,33 +45,17 @@ layout: default
     </div>
     <!--End mc_embed_signup-->
 
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align:center;display:none;">
-    <input type="hidden" name="cmd" value="_s-xclick">
-    <input type="hidden" name="hosted_button_id" value="VBXMFQD43VNGE">
-    <div style="padding-top: 20px; padding-bottom: 0;">
-    <button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
-    </div>
-    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
+     <input type="hidden" name="business" value="treasurer@wobblycity.org">
+     <input type="hidden" name="image_url" value="https://wobblycity.org/assets/logo.png">
+     <input type="hidden" name="return" value="https://wobblycity.org/donate-thanks">
+     <input type="hidden" name="cmd" value="_donations">
+     <input type="hidden" name="currency_code" value="USD">
+     <div style="padding-top: 20px; padding-bottom: 0;">
+      <button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
+     </div>
+     <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
     </form>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
-
-    <input type="hidden" name="business"
-        value="treasurer@wobblycity.org">
-    <input type="hidden" name="image_url"
-        value="https://wobblycity.org/assets/logo.png">
-
-    <input type="hidden" name="cmd" value="_donations">
-
-    <input type="hidden" name="currency_code" value="USD">
-
-    <div style="padding-top: 20px; padding-bottom: 0;">
-    <button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
-    </div>
-    <img alt="" width="1" height="1"
-    src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
-
-</form>
 
     <script>
         if (location.hash == "#donate") {
