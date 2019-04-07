@@ -7,14 +7,17 @@ heading: true
 <p style="text-align:center;">
 The Industrial Workers of the World is a democratic, member-run union. The IWW's <a href="{{site.baseurl}}/gmb">New York City General Membership Branch</a> is 100-percent staffed with volunteers and uses its membership dues to fund its workplace organizing, which currently includes restaurants, bakeries, and prisons. That said, we could always use a hand paying for legal fees, hardship funds, and other costs necessary to organizing. If you can, please make a one-time or recurring donation below, and share this appeal widely.
 </p>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="text-align:center;">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VBXMFQD43VNGE">
-<div style="padding-top: 20px; padding-bottom: 0;" data-block-type="53">
-<button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
-</div>
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
+     <input type="hidden" name="business" value="{{ site.paypal }}">
+     <input type="hidden" name="image_url" value="https://wobblycity.org/assets/logo.png">
+     <input type="hidden" name="return" value="https://wobblycity.org/thanks-for-donating">
+     <input type="hidden" name="cmd" value="_donations">
+     <input type="hidden" name="currency_code" value="USD">
+     <div style="padding-top: 20px; padding-bottom: 0;">
+      <button class="large" id="pp-donate" type="submit" name="submit" style="margin-top:12px;" ontouchstart="">Donate to the NYC GMB</button>
+     </div>
+     <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
+    </form>
 <script>
   if (location.hash == "#donate") {
     document.getElementById('pp-donate').click();
