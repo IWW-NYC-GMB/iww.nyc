@@ -2,7 +2,7 @@
   <a href="{{ site.data.next_meeting["next_meeting_url"] }}"><div class="next-meeting-header">The next meeting of the IWW NYC General Membership Branch will be on {{ site.data.next_meeting["next_meeting_date"] }}, from {{ site.data.next_meeting["meeting_time"] }}. Click for details.</div></a>
 
 <img src="{{site.baseurl}}/assets/logo.png" onclick="window.location.href='{{site.baseurl}}/';" style="cursor:pointer;display:block;margin-top:70px;margin-left:auto;margin-right:auto;width:430px;padding:10px;max-width:93%;" alt="IWW NYC GMB" id="IWWlogo">
-<p class="titleIWW">Industrial Workers <span style="letter-spacing:-4.9px;">𝓸</span>𝓯 the World</p>
+<p class="titleIWW">Industrial Workers of<span style="display:none;"><span style="letter-spacing:-4.9px;">𝓸</span>𝓯</span> the World</p>
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
