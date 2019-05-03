@@ -8,7 +8,7 @@ time: '1:00 PM - 4:00 PM'
 
 # ★ SO YOU WANT TO BE A WOBBLY? ★
 
-Do you work in an industry? Then you are an industrial worker— and you belong in the Industrial Workers of the World!
+Do you work in an industry? Then you are an industrial worker — and you belong in the Industrial Workers of the World!
 
 Join the IWW New York City General Membership Branch on the High Line for an orientation, potluck, and social! *
 
