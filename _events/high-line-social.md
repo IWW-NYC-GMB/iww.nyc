@@ -1,8 +1,8 @@
 ---
 layout: event
 title: IWW Social & Orientation on the High Line
-date: 'Tuesday, May 14, 2019'
-time: '7:00 PM - 9:00 PM'
+date: 'Saturday, May 18, 2019'
+time: '1:00 PM - 4:00 PM'
 ---
 ![](/assets/uploads/silent_agitator.jpg)
 
