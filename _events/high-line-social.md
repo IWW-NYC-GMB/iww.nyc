@@ -1,6 +1,6 @@
 ---
 layout: event
-title: IWW Orientation, Pot Luck, & Social on the High Line
+title: IWW Orientation, Potluck, & Social on the High Line
 date: 'Saturday, May 18, 2019'
 time: '1:00 PM - 4:00 PM'
 ---
@@ -10,7 +10,7 @@ time: '1:00 PM - 4:00 PM'
 
 Do you work in an industry? Then you are an industrial worker— and you belong in the Industrial Workers of the World!
 
-Join the IWW New York City General Membership Branch on the High Line for an orientation, pot luck, and social! *
+Join the IWW New York City General Membership Branch on the High Line for an orientation, potluck, and social! *
 
 **WHERE:** 23rd St. Lawn and Seating Steps on the High Line - W. 23rd St. and Tenth Ave. (<https://www.thehighline.org/garden-zones/23rd-street-lawn/> - wheelchair accessible at 23rd St.)
 
