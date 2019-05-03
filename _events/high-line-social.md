@@ -12,22 +12,22 @@ Do you work in an industry? Then you are an industrial worker— and you belong 
 
 Join the IWW New York City General Membership Branch on the High Line for an orientation, social and pot-luck! *
 
-_WHERE:_ 23rd St. Lawn and Seating Steps on the High Line - 23rd St and 10th Ave
-(<https://www.thehighline.org/garden-zones/23rd-street-lawn/> - wheelchair accessible at 23rd Street)
+**WHERE:** 23rd St. Lawn and Seating Steps on the High Line - W. 23rd St. and Tenth Ave.
+(<https://www.thehighline.org/garden-zones/23rd-street-lawn/> - wheelchair accessible at 23rd St.)
 
-_WHEN:_ Saturday, May 18th, at 1pm
+**WHEN:** Saturday, May 18th, at 1pm
 
-_WHO:_ The IWW NYC GMB— and anyone interested in joining or organizing with us!
+**WHO:** The IWW NYC GMB— and anyone interested in joining or organizing with us!
 
 #### Agenda:
 
-- 1:00pm: Pot Luck, Meet & Eat
+- 1pm: Pot Luck, Meet & Eat
 
-- 2:00pm: *ORIENTATION:* Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
+- 2pm: *ORIENTATION:* Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
 
-- 3:00pm: We will walk to the SILENT AGITATOR for a group photo (<https://www.thehighline.org/art/projects/ruth-ewan/>)
+- 3pm: We will walk to the SILENT AGITATOR for a group photo (<https://www.thehighline.org/art/projects/ruth-ewan/>)
 
-- 4:00pm: Optional after-event drinks at The Half King (505 W. 23rd St.) for anyone who’d like to drink in solidarity
+- 4pm: Optional after-event drinks at The Half King (505 W. 23rd St.) for anyone who’d like to drink in solidarity
 
 Bring some food and join the historic mission of the working class!
 
