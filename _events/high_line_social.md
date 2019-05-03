@@ -6,7 +6,7 @@ time: '7:00 PM - 9:00 PM'
 ---
 ![](/assets/uploads/silent_agitator.jpg)
 
-★ SO YOU WANT TO BE A WOBBLY? ★
+# ★ SO YOU WANT TO BE A WOBBLY? ★
 
 Do you work in an industry? Then you are an industrial worker— and you belong in the Industrial Workers of the World!
 
@@ -19,7 +19,7 @@ WHEN: Saturday, May 18th, at 1pm
 
 WHO: The IWW NYC GMB— and anyone interested in joining or organizing with us! - https://wobblycity.org/
 
-Agenda:
+#### Agenda:
 
 - 1:00pm: Pot Luck, Meet & Eat
 
