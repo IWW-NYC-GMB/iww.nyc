@@ -16,7 +16,7 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 **WHEN:** Saturday, May 18th, at 1pm
 
-**WHO:** The IWW NYC GMB— and anyone interested in joining or organizing with us!
+**WHO:** The IWW NYC GMB — and anyone interested in joining or organizing with us!
 
 #### Agenda:
 
