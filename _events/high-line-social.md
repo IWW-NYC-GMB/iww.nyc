@@ -1,6 +1,6 @@
 ---
 layout: event
-title: IWW Social & Orientation on the High Line
+title: IWW Orientation, Pot Luck, & Social on the High Line
 date: 'Saturday, May 18, 2019'
 time: '1:00 PM - 4:00 PM'
 ---
