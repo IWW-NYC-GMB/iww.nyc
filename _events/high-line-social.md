@@ -23,7 +23,7 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 - 1:00pm: Pot Luck, Meet & Eat
 
-- 2:00pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns and working groups you can join
+- 2:00pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
 
 - 3:00pm: We will walk to the SILENT AGITATOR for a group photo (https://www.thehighline.org/art/projects/ruth-ewan/)
 
