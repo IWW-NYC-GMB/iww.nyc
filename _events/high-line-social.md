@@ -12,12 +12,12 @@ Do you work in an industry? Then you are an industrial worker— and you belong 
 
 Join the IWW New York City General Membership Branch on the High Line for an orientation, social and pot-luck! *
 
-WHERE: 23rd St. Lawn and Seating Steps on the High Line - 23rd St and 10th Ave
+*WHERE:* 23rd St. Lawn and Seating Steps on the High Line - 23rd St and 10th Ave
 (https://www.thehighline.org/garden-zones/23rd-street-lawn/ - wheelchair accessible at 23rd Street)
 
-WHEN: Saturday, May 18th, at 1pm
+*WHEN:* Saturday, May 18th, at 1pm
 
-WHO: The IWW NYC GMB— and anyone interested in joining or organizing with us! - https://wobblycity.org/
+*WHO:* The IWW NYC GMB— and anyone interested in joining or organizing with us! - https://wobblycity.org/
 
 #### Agenda:
 
