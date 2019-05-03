@@ -20,7 +20,7 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 #### Agenda:
 
-- 1pm: Pot Luck, Meet & Eat
+- 1pm: Potluck, Meet & Eat
 
 - 2pm: *ORIENTATION:* Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
 
