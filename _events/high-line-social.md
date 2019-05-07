@@ -24,9 +24,11 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 - 2pm: *ORIENTATION:* Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
 
-- 3pm: We will walk to the SILENT AGITATOR for a group photo (<https://www.thehighline.org/art/projects/ruth-ewan/>)
+- 3pm: We will walk to the [SILENT AGITATOR](https://www.thehighline.org/art/projects/ruth-ewan/) for a group photo
 
-- 4pm: Optional after-event drinks at The Half King (505 W. 23rd St.) for anyone who’d like to drink in solidarity
+- 5pm: Self-defense workshop with [POP Gym](https://popgym.org)
+
+- 4pm: After-event drinks at The Half King (505 W. 23rd St.) for anyone who’d like to drink in solidarity
 
 Bring some food and join the historic mission of the working class!
 
