@@ -8,17 +8,17 @@
   {% seo %}
   <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "NYC Industrial Workers of the World",
-    "url": "https://wobblycity.org",
-    "logo": "https://wobblycity.org/assets/logo.png",
-    "sameAs": [
-     "https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}",
-     "https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}",
-     "https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}",
-     "https://github.com/{{ site.github_username| cgi_escape | escape }}"
-    ]
-  }
+   "@context": "http://schema.org",
+   "@type": "Organization",
+   "name": "{{ site.title }}",
+   "url": "{{ site.baseurl }}",
+   "logo": "{{ site.baseurl }}/assets/logo.png",
+   "sameAs": [
+    "https://www.twitter.com/{{ site.twitter_username | cgi_escape | escape }}",
+    "https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}",
+    "https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}",
+    "https://github.com/{{ site.github_username | cgi_escape | escape }}"
+   ]
+ }
   </script>
 </head>
