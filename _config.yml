@@ -38,7 +38,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-image: /assets/social.png
+image:
+  path: /assets/social.png
+
 logo: /assets/logo.png
 
 collections:
