@@ -9,7 +9,12 @@ future: true
 paypal: "treasurer@wobblycity.org"
 
 logo: /assets/logo.png
-image: /assets/social.png
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/social.png
 
 twitter_username: iwwnyc
 instagram_username: iwwnyc
