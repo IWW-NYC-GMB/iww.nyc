@@ -6,21 +6,5 @@
   <link rel="stylesheet" href="{{ "/assets/form.css" | relative_url }}">
   <title>{%- if page.title -%}{{ page.title }}{{ ' · ' }}{%- endif -%}{{ site.title }}</title>
   <!--<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>-->
-  <meta property="og:image" content="{{ site.url }}{{ site.image }}" />
   {% seo %}
-<!-- <script type="application/ld+json">
-  {
-   "@context": "http://schema.org",
-   "@type": "Organization",
-   "name": "{{ site.title }}",
-   "url": "{{ site.url }}",
-   "logo": "{{ site.url }}/assets/logo.png",
-   "sameAs": [
-    "https://www.twitter.com/{{ site.twitter_username | cgi_escape | escape }}",
-    "https://www.facebook.com/{{ site.facebook_username | cgi_escape | escape }}",
-    "https://instagram.com/{{ site.instagram_username | cgi_escape | escape }}",
-    "https://github.com/{{ site.github_username | cgi_escape | escape }}"
-   ]
- }
-  </script> -->
 </head>
