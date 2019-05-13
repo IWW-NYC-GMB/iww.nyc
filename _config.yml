@@ -8,6 +8,9 @@ future: true
 
 paypal: "treasurer@wobblycity.org"
 
+logo: /assets/logo.png
+image: /assets/social.png
+
 twitter_username: iwwnyc
 instagram_username: iwwnyc
 facebook_username: iwwnyc
@@ -37,11 +40,6 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-image:
-  path: /assets/social.png
-
-logo: /assets/logo.png
 
 collections:
   events:
