@@ -3,7 +3,7 @@ layout: page
 title: Events
 permalink: /events/
 ---
-{% for item in site.events | reverse %}
+{% for item in site.events %}
   {% if item.date >= site.time %}
     <a href="{{ item.url }}"><div class="date-box"><p style="font-weight:300;">{{ item.date | date: "%b" }}<br><span style="font-size:32px;">{{ item.date | date: "%e" }}</span></p></div></a>
     <div style="padding-left:107px;margin-bottom:60px;" id="events-main-info">
