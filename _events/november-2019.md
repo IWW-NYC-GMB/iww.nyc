@@ -1,7 +1,7 @@
 ---
 layout: event
 title: General Membership Branch · November Meeting
-date: 'Tuesday, November 13, 2019'
+date: 'Tuesday, November 12, 2019'
 time: '7:00 PM - 9:00 PM'
 ---
 ![](/assets/uploads/event.jpg)
