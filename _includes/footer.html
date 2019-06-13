@@ -1,108 +1,117 @@
-        {%- include social.html -%}
+{%- include social.html -%}
 
 <hr style="margin:20px 0 15px 0;width:85%;margin-left:auto;margin-right:auto;">
 
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-  <a href="https://iww.org" style="display:block;margin-left:auto;margin-right:auto;height:90px;width:90px;opacity:.85;">
-    <img src="{{site.baseurl}}/assets/footer.png">
-  </a>
-<p style="text-align:center;text-transform:uppercase;font-size:11px;font-weight:500;letter-spacing:-1px;word-spacing:1px;color:#585858;margin-top:16px;">An injury to one is an injury to all</p>
-  </div>
+<div class="wrapper">
+<a href="https://iww.org" style="display:block;margin-left:auto;margin-right:auto;height:90px;width:90px;opacity:.85;">
+<img src="{{site.baseurl}}/assets/footer.png">
+</a>
+<p id="footer_text" style="text-align:center;text-transform:uppercase;font-size:11px;font-weight:500;letter-spacing:-1px;word-spacing:1px;color:#585858;margin-top:16px;"></p>
+</div>
+<script>
+var randomNumber = Math.random();
+
+if (randomNumber <= 0.5) {
+  document.getElementById("footer_text").innerHTML = "An injury to one is an injury to all";
+} else if (randomNumber >= 0.5) {
+  document.getElementById("footer_text").innerHTML = "Labor is entitled to all it produces";
+}
+</script>
 
 </footer>
 
 <div id="google_translate_element" style="display:none;"></div>
 <script type="text/javascript">
 function googleTranslateElementInit() {
-	new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT}, 'google_translate_element');
+new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'es', layout: google.translate.TranslateElement.FloatPosition.TOP_RIGHT}, 'google_translate_element');
 }
 </script>
 
 <style>
 .goog-te-banner-frame.skiptranslate {
-	display: none !important;
+display: none !important;
 }
 
 body {
-	top: 0px !important;
+top: 0px !important;
 }
 
 .goog-tooltip {
-	display: none !important;
+display: none !important;
 }
 
 .goog-tooltip:hover {
-	display: none !important;
+display: none !important;
 }
 
 .goog-text-highlight {
-	background-color: transparent !important;
-	border: none !important;
-	box-shadow: none !important;
+background-color: transparent !important;
+border: none !important;
+box-shadow: none !important;
 }
 
 /* .goog-text-highlight {
-	background-color: #F29397 !important;
-  	border: none !important;
+background-color: #F29397 !important;
+border: none !important;
 } */
 </style>
 
 <script>
 function getCookie(cookiename) {
-	var cookiestring=RegExp(""+cookiename+"[^;]+").exec(document.cookie);
-	return decodeURIComponent(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./,"") : "");
+var cookiestring=RegExp(""+cookiename+"[^;]+").exec(document.cookie);
+return decodeURIComponent(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./,"") : "");
 }
 
 function loadTranslate() {
-	document.getElementsByClassName("site-header")[0].insertAdjacentHTML('beforeBegin',
-          '<div style="z-index:10;position:fixed;padding:0px 10px 0px 10px;bottom:0;right:20px;text-align:center;border-radius: 7px 7px 0px 0px;box-shadow: 5px 10px 20px #888888;background:#222222;"><a onclick="translateSpan()" style="color:#FFFFFF;cursor:pointer;font-family:\'Mukta\',arial,sans-serif;font-size:13px;font-weight:300;font-style:normal;letter-spacing:1px;text-transform:none;line-height:1.2em;" id="translateLink" class="notranslate"></a></div>');
+document.getElementsByClassName("site-header")[0].insertAdjacentHTML('beforeBegin',
+  '<div style="z-index:10;position:fixed;padding:0px 10px 0px 10px;bottom:0;right:20px;text-align:center;border-radius: 7px 7px 0px 0px;box-shadow: 5px 10px 20px #888888;background:#222222;"><a onclick="translateSpan()" style="color:#FFFFFF;cursor:pointer;font-family:\'Mukta\',arial,sans-serif;font-size:13px;font-weight:300;font-style:normal;letter-spacing:1px;text-transform:none;line-height:1.2em;" id="translateLink" class="notranslate"></a></div>');
 
-	var transCookie = getCookie("googtrans");
+var transCookie = getCookie("googtrans");
 
-	if (transCookie == "/en/es") {
-		var script = document.createElement("script");
-		script.type = "text/javascript";
-		script.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
-		document.body.appendChild(script);
-		document.getElementById("translateLink").innerHTML = "View in English";
-		document.getElementsByClassName("titleIWW")[0].innerHTML = "Industrial Workers of the World";
-  		document.getElementById("IWWlogo").src = "{{site.baseurl}}/assets/logo_es.png";
-  	try {
-			document.getElementById("continue-button").value = "Continuar ▶︎";
-			document.getElementById("back-button").value = "◀︎ Volver";
-        } catch {
-			void(0);
-        }
-	} else {
-		document.getElementById("translateLink").innerHTML = "Ver en Español";
-	}
+if (transCookie == "/en/es") {
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+document.body.appendChild(script);
+document.getElementById("translateLink").innerHTML = "View in English";
+document.getElementsByClassName("titleIWW")[0].innerHTML = "Industrial Workers of the World";
+document.getElementById("IWWlogo").src = "{{site.baseurl}}/assets/logo_es.png";
+try {
+document.getElementById("continue-button").value = "Continuar ▶︎";
+document.getElementById("back-button").value = "◀︎ Volver";
+} catch {
+void(0);
+}
+} else {
+document.getElementById("translateLink").innerHTML = "Ver en Español";
+}
 
-	history.pushState("", document.title, window.location.pathname);
+history.pushState("", document.title, window.location.pathname);
 }
 
 function translateSpan() {
-	var transCookie = getCookie("googtrans");
-	var transLink = "";
-	var domain = document.domain.split('.').reverse().splice(0,2).reverse().join('.');
+var transCookie = getCookie("googtrans");
+var transLink = "";
+var domain = document.domain.split('.').reverse().splice(0,2).reverse().join('.');
 
-	if (transCookie == "/en/es") {
-		transLink = "#googtrans(en)";
-		document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-		document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=." + domain;
-	} else {
-		transLink = "#googtrans(es)";
-		document.cookie = "googtrans=/en/es; path=/;";
-		document.cookie = "googtrans=/en/es; path=/; domain=." + domain;
-	}
+if (transCookie == "/en/es") {
+transLink = "#googtrans(en)";
+document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+document.cookie = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=." + domain;
+} else {
+transLink = "#googtrans(es)";
+document.cookie = "googtrans=/en/es; path=/;";
+document.cookie = "googtrans=/en/es; path=/; domain=." + domain;
+}
 
-	window.location = transLink;
-	location.reload(true);
+window.location = transLink;
+location.reload(true);
 }
 
 window.addEventListener('load', function (){
-	loadTranslate();
+loadTranslate();
 });
 </script>
