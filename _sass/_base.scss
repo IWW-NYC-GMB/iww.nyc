@@ -260,6 +260,17 @@ hr {
     opacity: 1.0 !important;
 }
 
+#footer_text {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: -.2px;
+  word-spacing: 1px;
+  color: #585858;
+  margin-top: 16px;
+}
+
 ul li {
   margin-bottom: 12px;
 }
