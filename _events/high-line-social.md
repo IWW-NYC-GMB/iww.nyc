@@ -21,7 +21,6 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 #### Agenda:
 
 - 7:30pm: Potluck, Meet & Eat
-
 - 8:15pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns and working groups you can join. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
 Bring some food and join the historic mission of the working class!*
