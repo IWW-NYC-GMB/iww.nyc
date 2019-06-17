@@ -1,8 +1,8 @@
 ---
 layout: event
 title: IWW Orientation, Potluck, & Social on the High Line
-date: 'Saturday, May 18, 2019'
-time: '1:00 PM - 4:00 PM'
+date: 'Thursday, June 27, 2019'
+time: '7:30 PM - 9:00 PM'
 ---
 ![](/assets/uploads/silent_agitator.jpg)
 
@@ -12,28 +12,22 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch on the High Line for an orientation, potluck, and social!
 
-**WHERE:** [23rd St. Lawn and Seating Steps on the High Line](https://www.thehighline.org/garden-zones/23rd-street-lawn/) - W. 23rd St. and Tenth Ave. (wheelchair accessible at 23rd St.)
+**WHERE:** [22nd Street Seating Steps on the High Line](https://www.thehighline.org/garden-zones/23rd-street-lawn/) - W. 22nd St. and Tenth Ave. (wheelchair accessible at 23rd St.)
 
-**WHEN:** Saturday, May 18th, at 1pm
+**WHEN:** Thursday, June 27th, at 7:30pm
 
 **WHO:** The IWW NYC GMB — and anyone interested in joining or organizing with us!
 
 #### Agenda:
 
-- 1pm: Potluck, Meet & Eat
+- 7:30pm: Potluck, Meet & Eat
 
-- 2pm: *ORIENTATION:* Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns, and working groups you can join
+- 8:15pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns and working groups you can join. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
-- 3pm: We will walk to the [SILENT AGITATOR](https://www.thehighline.org/art/projects/ruth-ewan/) for a group photo
-
-- 4pm: Self-defense workshop with [POP Gym](https://popgym.org)
-
-- 5pm: After-event drinks at The Half King (505 W. 23rd St.) for anyone who’d like to drink in solidarity
-
-Bring some food and join the historic mission of the working class!
+Bring some food and join the historic mission of the working class!*
 
 *Can’t bring food? Bring yourself anyway! We’ll make certain there will be enough to go around.
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
 
-[Facebook Event](https://www.facebook.com/events/553766461813265/)
+[Facebook Event](https://www.facebook.com/events/699404803851166/)
