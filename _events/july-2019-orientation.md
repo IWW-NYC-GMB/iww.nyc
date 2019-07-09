@@ -16,7 +16,7 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 **WHEN:** Saturday, July 13th, at 3:30pm
 
-**WHO:** The IWW NYC GMB, the Incarcerated Workers Organizing Committee — and anyone interested in joining or organizing with us!
+**WHO:** The IWW NYC GMB, the [Incarcerated Workers Organizing Committee](https://incarceratedworkers.org/branches/new-york-city) — and anyone interested in joining or organizing with us!
 
 #### Agenda:
 
