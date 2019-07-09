@@ -6,7 +6,7 @@ time: '3:30 PM - 6:30 PM'
 ---
 ![](/assets/uploads/silent_agitator.jpg)
 
-# ★ SO YOU WANT TO BE A WOBBLY? ★
+# ★ SO YOU WANNA BE A WOBBLY? ★
 
 Do you work in an industry? Then you are an industrial worker — and you belong in the Industrial Workers of the World!
 
