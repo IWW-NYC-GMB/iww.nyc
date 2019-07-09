@@ -1,7 +1,7 @@
 ---
 layout: event
 title: IWW Orientation & IWOC Meet 'n' Greet
-date: 'Saturday, Jul7 13, 2019'
+date: 'Saturday, July 13, 2019'
 time: '3:30 PM - 6:00 PM'
 ---
 ![](/assets/uploads/silent_agitator.jpg)
