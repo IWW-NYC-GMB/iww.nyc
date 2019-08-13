@@ -22,13 +22,13 @@ AND MORE!!
 
 *Details:*
 
-[The Well](https://thewellbrooklyn.com) (Backyard)
-272 Meserole Street
+[The Well](https://thewellbrooklyn.com) (Backyard)  
+272 Meserole Street  
 Brooklyn, NY 11206
 
 $10 suggested donation; available either via [Eventbrite](https://www.eventbrite.com/e/iww-nyc-convention-comedy-fundraiser-with-paid-protest-tickets-69055688423) or at the door (we'll accept credit/debit). No one will be turned away (unless you're a boss, cop, or fascist).
 
-Doors: 7pm
+Doors: 7pm  
 Show: 7:30pm
 
 [Facebook Event](https://www.facebook.com/events/495434544551129/)
