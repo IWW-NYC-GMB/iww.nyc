@@ -17,6 +17,7 @@ Featuring the great comedians of [Paid Protest](https://twitter.com/paidprotest)
 - [Yedoye Travis](https://twitter.com/ProfessorDoye) (Dark Tank)
 - [Taylor Garron](https://twitter.com/casualafro) (Reductress)
 - [Kath Barbadoro](https://twitter.com/kathbarbadoro) (Comedy Central)
+
 AND MORE!!
 
 Details:
