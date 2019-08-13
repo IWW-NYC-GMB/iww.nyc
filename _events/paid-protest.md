@@ -12,16 +12,11 @@ We'll also be wishing a happy birthday to [Fellow Worker Liss](https://twitter.c
 
 Featuring the great comedians of [Paid Protest](https://twitter.com/paidprotest)!
 
-[Matt Koff](https://twitter.com/mattkoff) (The Daily show)
-
-[Carmen Lagala](https://twitter.com/CarmenLagala) (The Late Show with Stephen Colbert)
-
-[Yedoye Travis](https://twitter.com/ProfessorDoye) (Dark Tank)
-
-[Taylor Garron](https://twitter.com/casualafro) (Reductress)
-
-[Kath Barbadoro](https://twitter.com/kathbarbadoro) (Comedy Central)
-
+- [Matt Koff](https://twitter.com/mattkoff) (The Daily show)
+- [Carmen Lagala](https://twitter.com/CarmenLagala) (The Late Show with Stephen Colbert)
+- [Yedoye Travis](https://twitter.com/ProfessorDoye) (Dark Tank)
+- [Taylor Garron](https://twitter.com/casualafro) (Reductress)
+- [Kath Barbadoro](https://twitter.com/kathbarbadoro) (Comedy Central)
 AND MORE!!
 
 Details:
