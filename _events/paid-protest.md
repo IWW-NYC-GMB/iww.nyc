@@ -8,7 +8,7 @@ time: '7:00 PM - 9:30 PM'
 
 Join us Thursday, August 22nd, in the backyard of The Well for some laughs, some drinks, some raffles, and more! Proceeds will go to sending our branch delegates to Winnipeg for the 2019 IWW General Convention.
 
-We'll also be wishing a happy birthday to Fellow Worker [Liss](https://twitter.com/tankandfile)!
+We'll also be wishing a happy birthday to [Fellow Worker Liss](https://twitter.com/tankandfile)!
 
 Featuring the great comedians of [Paid Protest](https://twitter.com/paidprotest)!
 
@@ -26,7 +26,7 @@ AND MORE!!
 
 Details:
 
-(The Well](https://thewellbrooklyn.com) (Backyard)
+[The Well](https://thewellbrooklyn.com) (Backyard)
 272 Meserole Street
 Brooklyn, NY 11206
 
@@ -35,10 +35,10 @@ $10 suggested donation; available either via [Eventbrite](https://www.eventbrite
 Doors: 7pm
 Show: 7:30pm
 
+[Facebook Event](https://www.facebook.com/events/495434544551129/)
+
 See you there!
 
 Can't make it? [Donate to the branch!](https://wobblycity.org/donate)
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
-
-[Facebook Event](https://www.facebook.com/events/495434544551129/)
