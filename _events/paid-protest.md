@@ -20,7 +20,7 @@ Featuring the great comedians of [Paid Protest](https://twitter.com/paidprotest)
 
 AND MORE!!
 
-##Details:
+## Details:
 
 [The Well](https://thewellbrooklyn.com) (Backyard ❧ 272 Meserole Street, Brooklyn, NY 11206)
 
