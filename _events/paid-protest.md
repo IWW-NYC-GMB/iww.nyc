@@ -20,7 +20,7 @@ Featuring the great comedians of [Paid Protest](https://twitter.com/paidprotest)
 
 AND MORE!!
 
-Details:
+*Details:*
 
 [The Well](https://thewellbrooklyn.com) (Backyard)
 272 Meserole Street
@@ -35,6 +35,6 @@ Show: 7:30pm
 
 See you there!
 
-Can't make it? [Donate to the branch!](https://wobblycity.org/donate)
+Can't make it? [*Donate to the branch!*](https://wobblycity.org/donate)
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
