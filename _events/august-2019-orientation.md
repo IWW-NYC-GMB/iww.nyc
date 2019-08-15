@@ -19,8 +19,7 @@ Join the IWW New York City General Membership Branch in Midland Beach for a beac
 **WHO:** The IWW NYC GMB — and anyone interested in joining or organizing with us!
 https://wobblycity.org/
 
-#### Agenda TBD
-
+_Agenda TBD_
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
 
