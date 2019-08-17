@@ -20,9 +20,9 @@ Join the IWW New York City General Membership Branch on the High Line for an ori
 
 #### Agenda:
 
-- 3:30pm: Potluck, IWOC Meet & Greet: Get to know outside organizers for the Incarcerated Workers Organizing Committee and find out how to join the campaign through correspondence and research.
-- 4:45pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns and working groups you can join. Delegates will be there, ready to sign up anyone who wants to join on the spot.
-- 5:45pm: Self-defense workshop with [POP Gym](https://popgym.org).
+* 3:30pm: Potluck, IWOC Meet & Greet: Get to know outside organizers for the Incarcerated Workers Organizing Committee and find out how to join the campaign through correspondence and research.
+* 4:45pm: ORIENTATION: Find out what the IWW is all about! We’ll fill you in on all the committees, campaigns and working groups you can join. Delegates will be there, ready to sign up anyone who wants to join on the spot.
+* 5:45pm: Self-defense workshop with [POP Gym](https://popgym.org).
 
 Bring some food and join the historic mission of the working class!*
 
