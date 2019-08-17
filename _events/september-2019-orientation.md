@@ -4,7 +4,7 @@ title: What is solidarity unionism?
 date: 'Tuesday, September 17, 2019'
 time: '7:30 PM - 9:30 PM'
 ---
-![](/assets/uploads/september-2019-orientation.png)
+![](/assets/uploads/solidarity-unionism.png)
 
 On the eighth anniversary of Occupy Wall Street, we'll be hosting a discussion in Tompkins Square Park exploring solidarity unionism — what it means, how it works, and its future.
 
