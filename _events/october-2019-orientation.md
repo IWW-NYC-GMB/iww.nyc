@@ -12,7 +12,7 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch for an orientation, potluck*, and social!
 
-**WHERE:** Park Avenue Plaza POPS (look for an IWW flag)
+**WHERE:** Park Avenue Plaza POPS (55 E. 52nd Street - look for an IWW flag)
 
 **WHEN:** Saturday, October 12th, at 3:30pm
 
