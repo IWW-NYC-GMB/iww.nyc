@@ -57,7 +57,7 @@ collections:
         fields:
           - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/event/month-year-orientation/"}
+          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
   - name: "next_meeting"
     label: "Next Meeting Settings"
     delete: false
@@ -71,7 +71,7 @@ collections:
         fields:
           - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Meeting Time", name: "meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/event/month-year/"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/events/month-year/"}
 #          - label: "Event search"
 #            name: "search"
 #            hint: "Not currently functional"
