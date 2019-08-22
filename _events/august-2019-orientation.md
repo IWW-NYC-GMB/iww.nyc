@@ -12,7 +12,7 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch in Midland Beach for a beach day and new member orientation!
 
-**WHERE:** Midland Beach - more specific location details to come. We'll have a flag.
+**WHERE:** Midland Beach - Picnic area on Father Capodanno Blvd. & Lincoln Ave. Take the [S51](http://bustime.mta.info/#s51) from the ferry or the [S53](http://bustime.mta.info/#s53) from Bay Ridge.
 
 **WHEN:** Sunday, August 25th, at 3:30pm
 
