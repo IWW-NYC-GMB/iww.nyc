@@ -7,7 +7,7 @@ backend:
 
 display_url: https://wobblycity.org
 
-logo_url: /assets/iww_netlify.png
+logo_url: /assets/iww-netlify.png
 
 publish_mode: editorial_workflow
 
