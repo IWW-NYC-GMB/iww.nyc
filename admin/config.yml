@@ -43,30 +43,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
       - {label: "Time", name: "time", widget: "string"}    
-      - {label: "Body", name: "body", widget: "markdown"}
-
-
-      - label: "Profile"
-        name: "profile"
-        widget: "object"
-        fields:
-          - {label: "Public", name: "public", widget: "boolean", default: true}
-          - {label: "Name", name: "name", widget: "string"}
-          - label: "Birthdate"
-            name: "birthdate"
-            widget: "date"
-            default: ""
-            format: "MM/DD/YYYY"
-          - label: "Address"
-            name: "address"
-            widget: "object"
-            fields: 
-              - {label: "Street Address", name: "street", widget: "string"}
-              - {label: "City", name: "city", widget: "string"}
-              - {label: "Postal Code", name: "post-code", widget: "string"}
-
-
-      
+      - {label: "Body", name: "body", widget: "markdown"}      
   - name: "next_orientation"
     label: "Next Orientation Settings"
     delete: false
@@ -78,6 +55,9 @@ collections:
         file: "_data/upcoming.yml"
         description: "Next Orientation Settings"
         fields:
+          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
+          - {label: "Meeting Time", name: "meeting_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "hidden", hint: "/events/month-year/"}
           - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
           - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
@@ -95,6 +75,9 @@ collections:
           - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Meeting Time", name: "meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
           - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/events/month-year/"}
+          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
+          - {label: "Orientation Time", name: "orientation_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "hidden", hint: "/events/month-year-orientation/"}
 #          - label: "Event search"
 #            name: "search"
 #            hint: "Not currently functional"
