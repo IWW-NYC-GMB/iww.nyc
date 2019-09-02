@@ -102,7 +102,7 @@ div.duesLevels {
 }
 
 .duesLevels div:hover label {
-	color: #000000;
+	color: /*#000000*/#AAAAAA;
 }
 
 .duesLevels div .check {
@@ -121,7 +121,7 @@ div.duesLevels {
 }
 
 .duesLevels div:hover .check {
-	border: 5px solid #000000;
+	border: 5px solid /*#000000*/#AAAAAA;
 }
 
 .duesLevels div .check::before {
@@ -140,15 +140,15 @@ div.duesLevels {
 }
 
 input[type=radio]:checked ~ .check {
-	border: 5px solid #CB242B;
+	border: 5px solid /*#CB242B*/#AAAAAA;
 }
 
 input[type=radio]:checked ~ .check::before {
-	background: #CB242B;
+	background: /*#CB242B*/#AAAAAA;
 }
 
 input[type=radio]:checked ~ label {
-	color: #CB242B;
+	color: /*#CB242B*/#AAAAAA;
 }
 
 input[type=text], input[type=number], input[type=date] {
@@ -157,7 +157,7 @@ input[type=text], input[type=number], input[type=date] {
 	padding: 12px 20px;
 	text-align: center;
 	box-sizing: border-box;
-	border: 2px solid #272727;
+	border: 2px solid /*#272727*/#AAAAAA;
 	border-radius: 4px;
 	background: none;
 	-webkit-transition: background 0.25s linear;
@@ -168,7 +168,7 @@ input[type=text], input[type=number], input[type=date] {
 }
 
 input[type=text]:focus, input[type=number]:focus, input[type=date]:focus {
-	background: #000000;
+	background: /*#000000*/#AAAAAA;
 	color: #FFFFFF;
 }
 
@@ -178,7 +178,7 @@ input[type=text]:focus, input[type=number]:focus, input[type=date]:focus {
 	margin-top: 12px;
 	text-align: center;
 	box-sizing: border-box;
-	border: 2px solid #272727;
+	border: 2px solid /*#272727*/#AAAAAA;
 	border-radius: 4px;
 	-webkit-appearance: none;
 	-moz-appearance: none;
@@ -193,7 +193,7 @@ input[type=text]:focus, input[type=number]:focus, input[type=date]:focus {
 }
 
 #pp-select:focus {
-	background: #000000;
+	background: /*#000000*/#AAAAAA;
 	color: #FFFFFF;
 }
 
@@ -211,7 +211,7 @@ label.pp-select {
 	font-size: 60%;
 	line-height: 65px;
 	padding: 0px 7px;
-	background: #000000;
+	background: /*#000000*/#AAAAAA;
 	color: #FFFFFF;
 	pointer-events: none;
 	-webkit-border-radius: 0 6px 6px 0;
