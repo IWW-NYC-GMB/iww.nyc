@@ -50,24 +50,21 @@ collections:
     editor:
     preview: false
     file: "_data/upcoming.yml"
-      - name: "settings"
-        label: "Upcoming Event Details"
-        description: "Upcoming Event Details"
+    fields:
+      - label: "Meeting"
+        name: "Meeting"
+        widget: "object"
         fields:
-          - label: "Meeting"
-            name: "Meeting"
-            widget: "object"
-            fields:
-              - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
-              - {label: "Meeting Time", name: "meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
-              - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/events/month-year/"}
-          - label: "Orientation"
-            name: "Orientation"
-            widget: "object"
-            fields:
-              - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
-              - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
-              - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
+          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
+          - {label: "Meeting Time", name: "meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/events/month-year/"}
+      - label: "Orientation"
+        name: "Orientation"
+        widget: "object"
+        fields:
+          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
+          - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
 #              - label: "Event search"
 #                name: "search"
 #                hint: "Not currently functional"
