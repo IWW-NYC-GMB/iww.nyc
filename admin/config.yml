@@ -42,8 +42,8 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
-      - {label: "Time", name: "time", widget: "string"}    
-      - {label: "Body", name: "body", widget: "markdown"}      
+      - {label: "Time", name: "time", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "next_orientation"
     label: "Next Orientation Settings"
     delete: false
