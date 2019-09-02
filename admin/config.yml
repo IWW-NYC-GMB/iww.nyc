@@ -44,30 +44,16 @@ collections:
       - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
       - {label: "Time", name: "time", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "next_orientation"
-    label: "Next Orientation Settings"
+
+
+      
+  - name: "upcoming"
+    label: "Upcoming Events Details"
     delete: false
     editor:
       preview: false
     files:
-      - name: "settings"
-        label: "Next Orientation Settings"
-        file: "_data/upcoming.yml"
-        description: "Next Orientation Settings"
-        fields:
-          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
-          - {label: "Meeting Time", name: "meeting_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "hidden", hint: "/events/month-year/"}
-          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
-          - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
-  - name: "next_meeting"
-    label: "Next Meeting Settings"
-    delete: false
-    editor:
-      preview: false
-    files:
-      - name: "settings"
+      - name: "meeting"
         label: "Next Meeting Settings"
         file: "_data/upcoming.yml"
         description: "Next Meeting Settings"
@@ -78,11 +64,14 @@ collections:
           - {label: "Next Orientation Date", name: "next_orientation_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
           - {label: "Orientation Time", name: "orientation_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
           - {label: "Next Orientation URL", name: "next_orientation_url", widget: "hidden", hint: "/events/month-year-orientation/"}
-#          - label: "Event search"
-#            name: "search"
-#            hint: "Not currently functional"
-#            widget: "relation"
-#            collection: "events"
-#            searchFields: ["title"]
-#            valueField: "slug"
-#            displayFields: ["title", "slug"]
+      - name: "orientation"
+        label: "Next Orientation Settings"
+        file: "_data/upcoming.yml"
+        description: "Next Orientation Settings"
+        fields:
+          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
+          - {label: "Meeting Time", name: "meeting_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "hidden", hint: "/events/month-year/"}
+          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
+          - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
+          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
