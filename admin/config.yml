@@ -69,11 +69,11 @@ collections:
               - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
               - {label: "Orientation Time", name: "orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
               - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
-              - label: "Event search"
-                name: "search"
-                hint: "Not currently functional"
-                widget: "relation"
-                collection: "events"
-                searchFields: ["title"]
-                valueField: "slug"
-                displayFields: ["title", "slug"]
+#              - label: "Event search"
+#                name: "search"
+#                hint: "Not currently functional"
+#                widget: "relation"
+#                collection: "events"
+#                searchFields: ["title"]
+#                valueField: "slug"
+#                displayFields: ["title", "slug"]
