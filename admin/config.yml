@@ -58,17 +58,19 @@ collections:
           - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Meeting Time", name: "next_meeting_time", widget: "string", hint: "Example: 7 to 9 PM"}
           - {label: "Next Meeting URL", name: "next_meeting_url", widget: "string", hint: "/events/month-year/"}
-          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
-          - {label: "Orientation Time", name: "next_orientation_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "hidden", hint: "/events/month-year-orientation/"}
+          - {label: "", name: "", widget: "hidden"}
+          - {label: "Next Orientation Date", name: "next_orientation_date", widget: "hidden"}
+          - {label: "Orientation Time", name: "next_orientation_time", widget: "hidden"}
+          - {label: "Next Orientation URL", name: "next_orientation_url", widget: "hidden"}
       - name: "orientation"
         label: "Next Orientation Settings"
         file: "_data/upcoming.yml"
         description: "Next Orientation Settings"
         fields:
-          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "hidden", format: "dddd, MMMM D, YYYY"}
-          - {label: "Meeting Time", name: "next_meeting_time", widget: "hidden", hint: "Example: 7 to 9 PM"}
-          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "hidden", hint: "/events/month-year/"}
+          - {label: "Next Meeting Date", name: "next_meeting_date", widget: "hidden"}
+          - {label: "Meeting Time", name: "next_meeting_time", widget: "hidden"}
+          - {label: "Next Meeting URL", name: "next_meeting_url", widget: "hidden"}
+          - {label: "", name: "", widget: "hidden"}
           - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
           - {label: "Orientation Time", name: "next_orientation_time", widget: "string", hint: "Example: 7 to 9 PM"}
           - {label: "Next Orientation URL", name: "next_orientation_url", widget: "string", hint: "/events/month-year-orientation/"}
