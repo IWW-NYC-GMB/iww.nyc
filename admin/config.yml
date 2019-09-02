@@ -16,7 +16,7 @@ media_folder: "assets/uploads"
 collections:
   - name: "news"
     editor:
-      preview: false
+    preview: false
     label: "News"
     label_singular: "news item"
     folder: "news/_posts"
@@ -33,7 +33,7 @@ collections:
       - {label: "Body", name: "body", hint: "To format correctly, enter the markdown editor mode and delete any blank line breaks. There should be no gaps between lines of text when in the markdown editor.", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-one", "heading-two", "heading-three", "code-block", "bulleted-list", "numbered-list"]}
   - name: "events"
     editor:
-      preview: false
+    preview: false
     label: "Events"
     label_singular: "event"
     folder: "_events"
@@ -44,14 +44,11 @@ collections:
       - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
       - {label: "Time", name: "time", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-
-      
   - name: "upcoming"
     label: "Upcoming Events Details"
     delete: false
     editor:
-      preview: false
+    preview: false
     files:
       - name: "meeting"
         label: "Next Meeting Settings"
