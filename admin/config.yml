@@ -44,6 +44,29 @@ collections:
       - {label: "Date", name: "date", widget: "date", format: "dddd, MMMM D, YYYY"}
       - {label: "Time", name: "time", widget: "string"}    
       - {label: "Body", name: "body", widget: "markdown"}
+
+
+      - label: "Profile"
+        name: "profile"
+        widget: "object"
+        fields:
+          - {label: "Public", name: "public", widget: "boolean", default: true}
+          - {label: "Name", name: "name", widget: "string"}
+          - label: "Birthdate"
+            name: "birthdate"
+            widget: "date"
+            default: ""
+            format: "MM/DD/YYYY"
+          - label: "Address"
+            name: "address"
+            widget: "object"
+            fields: 
+              - {label: "Street Address", name: "street", widget: "string"}
+              - {label: "City", name: "city", widget: "string"}
+              - {label: "Postal Code", name: "post-code", widget: "string"}
+
+
+      
   - name: "next_orientation"
     label: "Next Orientation Settings"
     delete: false
@@ -52,7 +75,7 @@ collections:
     files:
       - name: "settings"
         label: "Next Orientation Settings"
-        file: "_data/next_orientation.yml"
+        file: "_data/upcoming.yml"
         description: "Next Orientation Settings"
         fields:
           - {label: "Next Orientation Date", name: "next_orientation_date", widget: "date", format: "dddd, MMMM D, YYYY"}
@@ -66,7 +89,7 @@ collections:
     files:
       - name: "settings"
         label: "Next Meeting Settings"
-        file: "_data/next_meeting.yml"
+        file: "_data/upcoming.yml"
         description: "Next Meeting Settings"
         fields:
           - {label: "Next Meeting Date", name: "next_meeting_date", widget: "date", format: "dddd, MMMM D, YYYY"}
