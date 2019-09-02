@@ -49,7 +49,7 @@ collections:
     delete: false
     editor:
     preview: false
-    file: "_data/upcoming.yml"
+    files: "_data/upcoming.yml"
     fields:
       - label: "Meeting"
         name: "Meeting"
