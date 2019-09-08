@@ -4,7 +4,7 @@ title: IWW Orientation & IWOC Meet 'n' Greet
 date: 'Saturday, July 13, 2019'
 time: '3:30 PM - 6:30 PM'
 ---
-![](/assets/uploads/silent-agitator.jpg)
+![](/assets/uploads/silent-agitator-evening.jpg)
 
 # ★ SO YOU WANNA BE A WOBBLY? ★
 
