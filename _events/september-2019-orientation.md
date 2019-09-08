@@ -1,6 +1,6 @@
 ---
 layout: event
-title: What is solidarity unionism?
+title: What is solidarity unionism? + Narcan Training
 date: 'Tuesday, September 17, 2019'
 time: '7:30 PM - 9:30 PM'
 ---
