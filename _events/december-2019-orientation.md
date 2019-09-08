@@ -4,7 +4,7 @@ title: December IWW Orientation, Potluck, & Social
 date: 'Saturday, December 14, 2019'
 time: '3:30 PM - 5:30 PM'
 ---
-![](/assets/uploads/silent-agitator.jpg)
+![](/assets/uploads/silent-agitator-evening.jpg)
 
 # ★ SO YOU WANNA BE A WOBBLY? ★
 
