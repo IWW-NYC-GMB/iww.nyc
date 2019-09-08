@@ -4,7 +4,7 @@ title: IWW Orientation, Potluck, & Social on the High Line
 date: 'Thursday, June 27, 2019'
 time: '7:30 PM - 9:00 PM'
 ---
-![](/assets/uploads/silent-agitator.jpg)
+![](/assets/uploads/silent-agitator-evening.jpg)
 
 # ★ SO YOU WANT TO BE A WOBBLY? ★
 
