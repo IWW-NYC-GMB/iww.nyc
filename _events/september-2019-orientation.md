@@ -6,7 +6,7 @@ time: '7:30 PM - 9:30 PM'
 ---
 ![](/assets/uploads/solidarity-unionism.png)
 
-**"A union is a way to get things done that you can't get done alone."**
+## "A union is a way to get things done that you can't get done alone."
 
 On the eighth anniversary of Occupy Wall Street, we'll be hosting a discussion in Tompkins Square Park exploring solidarity unionism — what it means, how it works, and its future.
 
