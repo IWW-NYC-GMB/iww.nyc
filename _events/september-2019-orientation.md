@@ -10,7 +10,7 @@ On the eighth anniversary of Occupy Wall Street, we'll be hosting a discussion i
 
 We'll begin at 7:30pm with a Narcan / Naloxone training to educate folks on how to deal with opioid overdose situations - kits will be provided!
 
-At 7:50-8pm, we'll have a discussion on solidarity unionism and an orientation on the IWW in NYC. Here are some primers on the subject:
+Beginning at 7:50-8pm, we'll have a discussion on solidarity unionism and an orientation on the IWW in NYC. Here are some primers on the subject:
 * ["Solidarity Unionism: What it is and what it isn't"](http://organizing.work/2018/09/solidarity-unionism-what-it-is-and-what-it-isnt/) by Don White
 * ["A Proposal to American Labor"](https://www.thenation.com/article/proposal-american-labor/) by Joel Rogers and Richard B. Freeman
 * ["Solidarity Unionism and Dual Carding: A Primer"](https://www.iww.org/about/solidarityunionism/SolidarityUnionismandDualCardingAPrimer) by Roger Williams
