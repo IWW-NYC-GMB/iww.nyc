@@ -4,7 +4,7 @@ title: General Membership Branch · April Meeting
 date: 'Tuesday, April 9, 2019'
 time: '7:00 PM - 9:00 PM'
 ---
-![]({{ site.baseurl }}/assets/uploads/meeting.jpg)
+![]({{ site.baseurl }}/assets/uploads/meeting.png)
 
 Our monthly business meetings are a space where we hear report backs from our campaigns and for our membership to make decisions on the organizing and broader work we're doing in the city. The IWW NYC GMB meets on the second Tuesday of each month for general business meetings, but we have committees that meet regularly, monthly orientations, and actions on a weekly basis.
 
