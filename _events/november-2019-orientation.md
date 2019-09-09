@@ -4,8 +4,7 @@ title: November IWW Orientation, Potluck, & Social
 date: 'Tuesday, November 5, 2019'
 time: '7:30 PM - 9:30 PM'
 ---
-![](/assets/uploads/silent-agitator-evening.jpg)
-
+![]({{ site.baseurl }}/assets/uploads/silent-agitator-evening.jpg)
 # ★ SO YOU WANNA BE A WOBBLY? ★
 
 Do you work in an industry? Then you are an industrial worker — and you belong in the Industrial Workers of the World!
