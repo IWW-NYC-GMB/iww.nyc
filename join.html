@@ -11,8 +11,8 @@ Join the NYC General Membership Branch today!</em></h3><br>
 <input type="hidden" name="notify_url" value="https://wobblycity.us16.list-manage.com/subscribe/paypal-ipn?u=b5aacdc67328813578df54304&id=232e15e038">
 <input type="hidden" name="reattempt" value="1">
 <input type="hidden" name="no_shipping" value="3">
-<input type="hidden" name="return" value="{{site.url}}/thanks-for-joining">
-<input type="hidden" name="image_url" value="{{site.url}}/assets/paypal.png">
+<input type="hidden" name="return" value="{{ site.url }}/thanks-for-joining">
+<input type="hidden" name="image_url" value="{{ site.url }}/assets/paypal.png">
 <input type="hidden" name="business" value="{{ site.paypal }}">
 <input type="hidden" name="cmd" value="_xclick-subscriptions">
 <input type="hidden" name="item_name" value="IWW NYC GMB Online Dues">
@@ -149,7 +149,7 @@ function setDues() {
 <div style="padding:15px;background-color:black;color:white;text-align:center;"><em>As a result of a motion passed on September 1, 2019, at the North American IWW General Convention, all new members signing up through General Headquarters (GHQ) Red Card will become members of their correspnding branch no later than January 1, 2020 (whereas this was not the case before; at-large Wobblies paying through Red Card currently will soon become members of their correpsonding branch as well). In addition, begining October 1, 2019, members joining through Red Card will be automatically opted-in to receving the new, stampless, plastic, membership cards. Contact the IWW NYC GMB at <a style="color:#fff !important;" href="mailto:organize@wobblycity.org"><strong>organize@wobblycity.org</strong></a> (<a style="color:#fff !important;" href="https://wobblycity.org/assets/keys/publickey.organize@wobblycity.org.asc"><strong>public key</strong></a>) or General Headquarts at <a style="color:#fff !important;" href="mailto:ghq@iww.org"><strong>ghq@iww.org</strong></a> for more information.</em></div>
 <div style="text-align:center;">  
 <a href="https://redcard.iww.org/user/register"><button class="large" style="margin:24px 15px 12px 15px;" ontouchstart="">Join on IWW Red Card</button></a><br>
-<a href="{{site.baseurl}}/why-join"><button class="small" ontouchstart="">Why join the IWW</button></a>
+<a href="{{ site.baseurl }}/why-join"><button class="small" ontouchstart="">Why join the IWW</button></a>
 </div><br>
 <p><h3>Who can join the IWW?</h3>
 As long as you are a worker — not an employer — you can join the IWW. Members of other unions (except officers), students, retirees, the unemployed, the self-employed, those in informal professions, and those unable to work may also join. <a href="https://wobblycity.org/why-join">Learn why you should join the IWW.</a><br><br>
@@ -229,5 +229,5 @@ You select your dues level based on your self-reported current monthly income. Y
 <li>$33 — if you make more than $3,500 per month</li>
 </ul><br>
 <h3>Coming to meetings</h3>
-After becoming a member, we encourage you to come to a new member orientation before joining us at our monthly branch meetings. Our branch's calendar can be found <a href="{{site.baseurl}}/events">here</a>.<br><br>
+After becoming a member, we encourage you to come to a new member orientation before joining us at our monthly branch meetings. Our branch's calendar can be found <a href="{{ site.baseurl }}/events">here</a>.<br><br>
 </p>
