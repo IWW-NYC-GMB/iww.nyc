@@ -3,7 +3,7 @@ layout: page
 title: News
 ---
 {% for post in paginator.posts %}
-  {% if post.categories contains 'news' %}
+  {% if post.categories == 'news' %}
 	<div style="margin-bottom:100px;">
     <span style="text-align:center;">
 		<h3 class="title"><a style="color:rgba(33,33,33,1);font-size:45px;line-height:1.2;" href="{{ post.url }}">{{ post.title }}</a></h3>
