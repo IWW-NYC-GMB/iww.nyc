@@ -1,3 +1,11 @@
+---
+layout: post
+title: Statement Against Borough-Based Jail System Plan
+date: 2019-10-08T05:00:00.000Z
+permalink: '/:categories/:year/:i_month/:i_day/:slug'
+netlify: true
+newsletter: false
+---
 The New York City General Membership Branch of the Industrial Workers of the World is unequivocally opposed to the city’s plan to spend $10.6 billion to build four new jails.
 We furthermore dispute all claims that new jails must be built in order to close Rikers Island.
 An abundance of research confirms that arrests and incarceration increase when police and judges know that there are empty beds in city jails. It is an inarguable fact that if these jails are built they will be filled.
