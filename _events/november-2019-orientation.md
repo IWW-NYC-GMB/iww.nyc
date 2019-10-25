@@ -26,6 +26,6 @@ Bring some food and join the historic mission of the working class!*
 
 *Can’t bring food? Bring yourself anyway! We’ll make certain there will be enough to go around.
 
-Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
+Email <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) with any questions.
 
-[Facebook Event](https://www.facebook.com/events/686959648453566/)
+[Facebook Event](https://www.facebook.com/events/686959648453566/
