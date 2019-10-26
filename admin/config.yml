@@ -1,11 +1,11 @@
 backend:
  name: github
- repo: IWW-NYC-GMB/wobblycity.org
+ repo: IWW-NYC-GMB/iww.nyc
   
 #backend:
 # name: test-repo
 
-display_url: https://wobblycity.org
+display_url: https://iww.nyc
 
 logo_url: /assets/iww-netlify.png
 
