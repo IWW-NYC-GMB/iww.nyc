@@ -9,8 +9,8 @@ The Industrial Workers of the World is a democratic, member-run union. The IWW's
 </p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
      <input type="hidden" name="business" value="{{ site.paypal }}">
-     <input type="hidden" name="image_url" value="https://wobblycity.org/assets/logo.png">
-     <input type="hidden" name="return" value="https://wobblycity.org/thanks-for-donating">
+     <input type="hidden" name="image_url" value="{{ site.url }}/assets/logo.png">
+     <input type="hidden" name="return" value="{{ site.url }}/thanks-for-donating">
      <input type="hidden" name="cmd" value="_donations">
      <input type="hidden" name="currency_code" value="USD">
      <div style="padding-top: 20px; padding-bottom: 0;">
