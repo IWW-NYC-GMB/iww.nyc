@@ -11,7 +11,7 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch for an orientation, potluck*, and social!
 
-**WHERE:** 60 Wall Street POPS (look for an IWW flag)
+**WHERE:** [David Rubenstein Atrium at Lincoln Center](http://www.lincolncenter.org/venue/david-rubenstein-atrium) (61 W. 62nd St., accessible entrance on Columbus Ave. - look for an IWW flag!)
 
 **WHEN:** Tuesday, November 5th, at 7:30pm
 
