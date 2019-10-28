@@ -28,4 +28,4 @@ Bring some food and join the historic mission of the working class!*
 
 Email <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) with any questions.
 
-[Facebook Event](https://www.facebook.com/events/686959648453566/
+[Facebook Event](https://www.facebook.com/events/686959648453566/)
