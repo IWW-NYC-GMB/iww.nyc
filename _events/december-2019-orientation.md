@@ -13,7 +13,7 @@ Join the IWW New York City General Membership Branch for an orientation, potluck
 
 **WHERE:** Location is still TBD
 
-**WHEN:** Tuesday, December 14th, at 3:30pm
+**WHEN:** Saturday, December 14th, at 3:30pm
 
 **WHO:** The IWW NYC GMB — and anyone interested in joining or organizing with us!
 
