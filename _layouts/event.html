@@ -4,6 +4,17 @@ layout: default
 <article class="event">
 <h1>{{ page.title | escape }}</h1>
 <time style="font-size:18px;">{{ page.date | date: "%B %-d, %Y" }}<br>
+
+{% assign d = page.date | date: "%-d"  %}
+{{ page.date | date: "%B" }} 
+{% case d %}
+  {% when '1' or '21' or '31' %}{{ d }}st
+  {% when '2' or '22' %}{{ d }}nd
+  {% when '3' or '23' %}{{ d }}rd
+  {% else %}{{ d }}th
+  {% endcase %}, 
+{{ page.date | date: "%Y" }}<br>
+  
 {{ page.time }}</time><br><br>
 
 {{ content | newline_to_br | replace: "</p><br />", "</p><br>" | remove: "<br />" }}
