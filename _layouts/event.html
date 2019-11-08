@@ -5,8 +5,8 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 <time style="font-size:18px;">
 
-{% assign d = page.date | date: "%-d"  %}
-{{ page.date | date: "%B" }} 
+{% assign d = page.date | date: "%-d" %}
+{{ page.date | date: "%B" }}
 {% case d %}
   {% when '1' or '21' or '31' %}{{ d }}st
   {% when '2' or '22' %}{{ d }}nd
