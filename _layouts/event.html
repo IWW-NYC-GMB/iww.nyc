@@ -3,7 +3,7 @@ layout: default
 ---
 <article class="event">
 <h1>{{ page.title | escape }}</h1>
-<time style="font-size:18px;">{{ page.date | date: "%b %-d, %Y" }}<br>
+<time style="font-size:18px;">{{ page.date | date: "%B %-d, %Y" }}<br>
 {{ page.time }}</time><br><br>
 
 {{ content | newline_to_br | replace: "</p><br />", "</p><br>" | remove: "<br />" }}
