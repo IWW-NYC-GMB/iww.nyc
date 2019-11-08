@@ -5,14 +5,14 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 <time style="font-size:18px;">
 
-{% assign d = page.date | date: "%-d" %}
-{{ page.date | date: "%B" }}
-{% case d %}
+{% assign d = page.date | date: "%-d" %}testA
+{{ page.date | date: "%B" }}testB
+{% case d %}testC
   {% when '1' or '21' or '31' %}{{ d }}st
   {% when '2' or '22' %}{{ d }}nd
   {% when '3' or '23' %}{{ d }}rd
   {% else %}{{ d }}th
-  {% endcase %},
+  {% endcase %},testD
 {{ page.date | date: "%Y" }}<br>
 
 {{ page.time }}</time><br><br>
