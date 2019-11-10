@@ -26,4 +26,4 @@ For a good primer on the IWW's structure and purpose, read [One Big Union](https
 
 Email <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) with any questions.
 
-[Facebook Event](https://www.facebook.com/events/2294003320911125/)
+[Facebook Event](https://www.facebook.com/events/586193352128619/)
