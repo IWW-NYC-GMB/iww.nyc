@@ -20,7 +20,7 @@ Join the IWW New York City General Membership Branch for an orientation and soci
 Agenda:
 
 * 3:30pm: Social (with snacks!)
-* 5:15pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
+* 4:15pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
 For a good primer on the IWW's structure and purpose, read [One Big Union](https://iww.org/about/official/OBU) (you'll get a printed copy when you join, either in-person or [online](https://redcard.iww.org/user/register)).
 
