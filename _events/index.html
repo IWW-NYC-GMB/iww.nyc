@@ -8,7 +8,7 @@ permalink: /events/
     <a href="{{ item.url }}"><div class="date-box"><p style="font-weight:300;">{{ item.date | date: "%b" }}<br><span style="font-size:32px;">{{ item.date | date: "%e" }}</span></p></div></a>
     <div style="padding-left:107px;margin-bottom:60px;" id="events-main-info">
       <a href="{{ item.url }}"><h2>{{ item.title }}</h2></a>
-      <p>{{ item.date | date: "%A, %B %-d, %Y" }}{%- if item.last-date -%}– {{ item.last-date | date: "%A, %B %-d, %Y" }}{%- endif -%}
+      <p>{{ item.date | date: "%A, %B %-d, %Y" }}{%- if item.last-date -%} – {{ item.last-date | date: "%A, %B %-d, %Y" }}{%- endif -%}
         <br>
         {{ item.time }}</p>
     </div>
