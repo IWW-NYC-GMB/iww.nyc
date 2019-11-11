@@ -9,8 +9,7 @@ permalink: /events/
     <div style="padding-left:107px;margin-bottom:60px;" id="events-main-info">
       <a href="{{ item.url }}"><h2>{{ item.title }}</h2></a>
       <p>{{ item.date | date: "%A, %B %-d, %Y" }}
-        {%- if item.last-date -%}/ – {{ item.last-date | date: "%A, %B %-d, %Y" }}{%- endif -%}
-        <br>
+        {%- if item.last-date -%}/ – {{ item.last-date | date: "%A, %B %-d, %Y" }}{%- endif -%}<br>
         {{ item.time }}</p>
     </div>
     <br>
