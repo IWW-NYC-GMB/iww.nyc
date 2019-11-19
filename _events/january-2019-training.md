@@ -14,7 +14,8 @@ While a training alone can't make you an expert organizer, you will have the fou
 
 Each day spans eight hours, 9am-5pm each day. Breakfast, lunch, and childcare will be provided.
 
-This OT 101 is free to all IWW members, with a suggested donation of $10 for non-members (can be made using the below button), but nobody will be turned away for lack of funds (unless you're a boss, cop, TERF, fascist, etc.). Advanced registration is required for attendance, which can be done [below](#registration).<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
+This OT 101 is free to all IWW members, with a suggested donation of $10 for non-members (can be made using the below button), but nobody will be turned away for lack of funds (unless you're a boss, cop, TERF, fascist, etc.). Advanced registration is required for attendance, which can be done [below](#registration).
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
 <input type="hidden" name="business" value="{{ site.paypal }}">
 <input type="hidden" name="image_url" value="{{ site.url }}/assets/logo.png">
 <input type="hidden" name="return" value="{{ site.url }}/thanks-for-donating">
@@ -25,6 +26,7 @@ This OT 101 is free to all IWW members, with a suggested donation of $10 for non
 </div>
 <img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
 </form>
+
 
 We're capping the training at 30 attendees. Please come to both days if you register. If you can only make one day, it's better to wait until we can offer a training that fits your schedule. We have an additional OT 101 scheduled for March 14-15, and are hoping to do these as frequently as we can, and offer more nuanced versions of the trainings in the future to accommodate different availabilities and workplaces.
 
