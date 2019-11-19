@@ -14,7 +14,7 @@ While a training alone can't make you an expert organizer, you will have the fou
 
 Each day spans eight hours, 9am-5pm each day. Breakfast, lunch, and childcare will be provided.
 
-This OT 101 is free to all IWW members, with a suggested donation of $10 for non-members (can be made at [here]({{ site.baseurl }}/#donate)), but nobody will be turned away for lack of funds (unless you're a boss, cop, TERF, fascist, etc.). Advanced registration is required for attendance, which can be done [below](#registration).
+This OT 101 is free to all IWW members, with a suggested donation of $10 for non-members (can be made using the below button), but nobody will be turned away for lack of funds (unless you're a boss, cop, TERF, fascist, etc.). Advanced registration is required for attendance, which can be done [below](#registration).
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align:center;">
 <input type="hidden" name="business" value="{{ site.paypal }}">
 <input type="hidden" name="image_url" value="{{ site.url }}/assets/logo.png">
