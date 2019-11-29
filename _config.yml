@@ -19,6 +19,7 @@ defaults:
 twitter_username: iwwnyc
 instagram_username: iwwnyc
 facebook_username: iwwnyc
+mastodon_username: iwwnyc
 github_username: iwwnyc
 
 social:
@@ -27,6 +28,7 @@ social:
     - https://twitter.com/iwwnyc
     - https://instagram.com/iwwnyc
     - https://facebook.com/iwwnyc
+    - https://mastodon.social/@iwwnyc
     - https://github.com/iwwnyc
 
 twitter:
