@@ -3,4 +3,4 @@ Contact: mailto:organize@iww.nyc
 Contact: https://iww.nyc/contact/
 Encryption: https://iww.nyc/assets/keys/publickey.organize@iww.nyc.asc
 Preferred-Languages: en
-Canonical: https://iww.nyc/.well-known/security.txt
+Canonical: https://iww.nyc/security.txt
