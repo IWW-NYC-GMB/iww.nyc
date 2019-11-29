@@ -26,6 +26,8 @@ While the space is not fully accessible, it can accommodate most accessibility n
 
 Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) if you have any questions.
 
+Download and share flyers in [color]({{ site.baseurl }}/assets/uploads/january-2020-training-color.pdf) and in [black & white]({{ site.baseurl }}/assets/uploads/january-2020-training-bw.pdf). Be mindful of the enviornment when printing and of your boss when printing or sharing these at work!
+
 [Facebook Event](https://www.facebook.com/events/2564231613863917/)
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shra8aGSm3GrqXdyd?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
