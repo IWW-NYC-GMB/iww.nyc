@@ -10,7 +10,7 @@ time: '9:00 AM - 5:00 PM'
 
 # WAITLISTED!<br><br>
 
-## The IWW's January 4-5 OT 101 in New York City has reached sign-up capacity. See below for our waitlist sign-up.
+## The IWW's January 4-5 OT 101 in New York City has reached sign-up capacity. See below for our waitlist sign-up.<br><br>
 
 Join the IWW for a two day training on workplace organizing! This introductory training thoroughly covers the foundations of organizing on the job, focusing on collective action and building your organizing committee.
 
