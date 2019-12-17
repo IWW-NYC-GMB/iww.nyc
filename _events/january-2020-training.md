@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Organizer Training 101
+title: Organizer Training 101 (Waitlisted)
 date: 'Saturday, January 4, 2020'
 last-date: 'Sunday, January 5, 2020'
 time: '9:00 AM - 5:00 PM'
