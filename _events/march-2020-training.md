@@ -28,6 +28,6 @@ Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organ
 
 Download and share flyers in [color]({{ site.baseurl }}/assets/uploads/march-2020-training-color.pdf) and in [black & white]({{ site.baseurl }}/assets/uploads/march-2020-training-bw.pdf). Be mindful of the enviornment when printing and of your boss when printing or sharing these at work!
 
-[Facebook Event](https://www.facebook.com/events/2564231613863917/)
+[Facebook Event](https://www.facebook.com/events/1335543346625101/)
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe style="display:none;" id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrsUWV50ue5zoXAe?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe style="display:none;" id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrmCn5PD4saP2un7?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
