@@ -35,4 +35,4 @@ Download and share flyers in [color]({{ site.baseurl }}/assets/uploads/january-2
 
 # WAITLISTED!
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shra8aGSm3GrqXdyd?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrsUWV50ue5zoXAe?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
