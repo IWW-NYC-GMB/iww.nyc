@@ -8,6 +8,9 @@ time: '9:00 AM - 5:00 PM'
 ![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
 # Agitate! ✩ Educate! ✩ Organize! ✩
 
+# WAITLISTED!
+## The IWW's January 4-5 OT 101 in New York City has reached sign-up capacity. See below for our waitlist sign-up.
+
 Join the IWW for a two day training on workplace organizing! This introductory training thoroughly covers the foundations of organizing on the job, focusing on collective action and building your organizing committee.
 
 While a training alone can't make you an expert organizer, you will have the foundational knowledge to organize your workplace, build your committee, and take on your boss.
@@ -29,5 +32,7 @@ Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organ
 Download and share flyers in [color]({{ site.baseurl }}/assets/uploads/january-2020-training-color.pdf) and in [black & white]({{ site.baseurl }}/assets/uploads/january-2020-training-bw.pdf). Be mindful of the enviornment when printing and of your boss when printing or sharing these at work!
 
 [Facebook Event](https://www.facebook.com/events/2564231613863917/)
+
+# WAITLISTED!
 
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe id="registration" class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shra8aGSm3GrqXdyd?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="3699" style="background: transparent; border: 0;"></iframe><br>
