@@ -17,15 +17,11 @@ Location: [Pine Box Rock Shop](http://pineboxrockshop.com) - [12 Grattan Street,
 
 Our lineup includes:
 
-🎶 **The Missioncreep** (Anarcho disco punk/industrial funk, live P.A.)
-
+🎶 **The Missioncreep** (Anarcho disco punk/industrial funk, live P.A.)  
 🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)  
-🎶 **Social Ecology Project** (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)
-
-🎶 **[Sing in Solidarity: A Project of New York City DSA](https://singsolidarity.org)** (Left-wing chorus)
-
-🎶 **Lil Guillotine** (Hip Hop artist, movement musician, & Wobbly rapper)
-
+🎶 **Social Ecology Project** (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)  
+🎶 **[Sing in Solidarity: A Project of New York City DSA](https://singsolidarity.org)** (Left-wing chorus)  
+🎶 **Lil Guillotine** (Hip Hop artist, movement musician, & Wobbly rapper)  
 🎶 **Mandy** (NYC sludge stoner punk, cute & evil)<br>
 
 Come out and support the organizing happening in our city! We'll have raffles & great prizes throughout the night!
