@@ -14,7 +14,7 @@ Tickets are sliding scale, between $5 and $10, and can either be purchased on [E
 
 Our lineup includes:<br>
 🎶 The Missioncreep (Anarcho disco punk/industrial funk, live P.A.)<br>
-🎶 Adam, Hal & Joe (Folk music trio playing Wobbly songs)<br>
+🎶 Adam, Hal & Joe (Folk music trio playing Wobbly songs)<br><br>
 🎶 Social Ecology Project (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)<br>
 🎶 Sing in Solidarity: A Project of New York City DSA (Left-wing chorus)<br>
 🎶 Lil Guillotine (Hip Hop artist, movement musician, & Wobbly rapper)<br>
