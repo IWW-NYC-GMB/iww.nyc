@@ -19,8 +19,7 @@ Our lineup includes:
 
 🎶 **The Missioncreep** (Anarcho disco punk/industrial funk, live P.A.)
 
-🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)
-
+🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)  
 🎶 **Social Ecology Project** (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)
 
 🎶 **[Sing in Solidarity: A Project of New York City DSA](https://singsolidarity.org)** (Left-wing chorus)
