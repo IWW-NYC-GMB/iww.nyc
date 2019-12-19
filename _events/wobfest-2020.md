@@ -5,7 +5,7 @@ date: 'Saturday, January 18, 2020'
 time: '8:00 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/wobfest-2020.jpg)
-Join IWW NYC for our 2020 Wobfest music fundraiser - with all funds going to benefit the Incarcerated Workers Organizing Committee NYC!
+Join IWW NYC for our 2020 Wobfest music fundraiser - with all funds going to benefit [IWOC NYC](https://incarceratedworkers.org/branches/new-york-city)!
 
 Doors open at 8pm 🚪
 
@@ -13,19 +13,21 @@ Music start at 9pm 🎤
 
 Tickets are sliding scale, between $5 and $10, and can either be purchased on [Eventbrite](https://www.eventbrite.com/e/wobfest-2020-fundraiser-for-the-incarcerated-workers-organizing-committee-tickets-86709234655) or at the door. 💸
 
+Location: [Pine Box Rock Shop](http://pineboxrockshop.com) - [12 Grattan Street, Brooklyn (near the Morgan Ave. L stop)](https://goo.gl/maps/s65Ff6mvRtip3bgX7)
+
 Our lineup includes:
 
-🎶 The Missioncreep (Anarcho disco punk/industrial funk, live P.A.)
+🎶 **The Missioncreep** (Anarcho disco punk/industrial funk, live P.A.)
 
-🎶 Adam, Hal & Joe (Folk music trio playing Wobbly songs)
+🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)
 
-🎶 Social Ecology Project (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)
+🎶 **Social Ecology Project** (Playing with Sing in Solidarity; Noise music trio with a focus on improv & politically motivated music)
 
-🎶 Sing in Solidarity: A Project of New York City DSA (Left-wing chorus)
+🎶 **[Sing in Solidarity: A Project of New York City DSA](https://singsolidarity.org)** (Left-wing chorus)
 
-🎶 Lil Guillotine (Hip Hop artist, movement musician, & Wobbly rapper)
+🎶 **Lil Guillotine** (Hip Hop artist, movement musician, & Wobbly rapper)
 
-🎶 Mandy (NYC sludge stoner punk, cute & evil)<br>
+🎶 **Mandy** (NYC sludge stoner punk, cute & evil)<br>
 
 Come out and support the organizing happening in our city! We'll have raffles & great prizes throughout the night!
 
