@@ -19,7 +19,7 @@ Location: [Pine Box Rock Shop](http://pineboxrockshop.com) - [12 Grattan Street,
 
 Our lineup includes:
 
-🎶 **The Missioncreep** (Anarcho disco punk/industrial funk, live P.A.)
+🎶 **[The Missioncreep](http://wildlifespecial.net/missioncreep.html)** (Anarcho disco punk/industrial funk, live P.A.)
 
 🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)
 
@@ -34,5 +34,7 @@ Our lineup includes:
 Come out and support the organizing happening in our city! We'll have raffles & great prizes throughout the night!
 
 ♿️ Accessibility: step-free (ramp) access to back room, and chairs can be provided upon request.
+
+Can't make it but want to support us? [Donate here!]({{ site.baseurl }}/#donate)
 
 [Facebook Event](https://www.facebook.com/events/2719750898093272/)
