@@ -13,7 +13,7 @@ Music start at 9pm 🎤
 
 Tickets are sliding scale, between $5 and $10, and can either be purchased on [Eventbrite](https://www.eventbrite.com/e/wobfest-2020-fundraiser-for-the-incarcerated-workers-organizing-committee-tickets-86709234655) or at the door. 💸
 
-🎟<a href="https://www.eventbrite.com/e/wobfest-2020-fundraiser-for-the-incarcerated-workers-organizing-committee-tickets-86709234655" target="_blank"><button class="large" type="submit" style="text-align:center;" ontouchstart="">Purchase Tickets</button></a>🎟<br>
+<a href="https://www.eventbrite.com/e/wobfest-2020-fundraiser-for-the-incarcerated-workers-organizing-committee-tickets-86709234655" target="_blank"><button class="large" type="submit" style="text-align:center;" ontouchstart="">Purchase Tickets 🎟</button></a><br>
 
 Location: [Pine Box Rock Shop](http://pineboxrockshop.com) - [12 Grattan Street, Brooklyn (near the Morgan Ave. L stop)](https://goo.gl/maps/s65Ff6mvRtip3bgX7)
 
