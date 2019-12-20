@@ -5,7 +5,7 @@ date: 'Saturday, January 18, 2020'
 time: '8:00 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/wobfest-2020.png)
-Join IWW NYC for our 2020 Wobfest music fundraiser - with all funds going to benefit [IWOC NYC](https://incarceratedworkers.org/branches/new-york-city)!
+Join IWW NYC for our Wobfest 2020 music fundraiser - with all funds going to benefit [IWOC NYC](https://incarceratedworkers.org/branches/new-york-city)!
 
 Doors open at 8pm 🚪
 
