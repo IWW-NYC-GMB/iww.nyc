@@ -19,7 +19,7 @@ Location: [Pine Box Rock Shop](http://pineboxrockshop.com) - [12 Grattan Street,
 
 Our lineup includes:
 
-🎶 **[The Missioncreep](http://wildlifespecial.net/missioncreep.html)** (Anarcho disco punk/industrial funk, live P.A.)
+🎶 **[The Missioncreep](https://wildlifespecial.net/missioncreep.html)** (Anarcho disco punk/industrial funk, live P.A.)
 
 🎶 **Adam, Hal & Joe** (Folk music trio playing Wobbly songs)
 
