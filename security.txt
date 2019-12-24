@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: /.well-known/security.txt
+---
 Contact: mailto:security@iww.nyc
 Contact: mailto:organize@iww.nyc
 Contact: https://iww.nyc/contact/
