@@ -21,6 +21,7 @@ instagram_username: iwwnyc
 facebook_username: iwwnyc
 mastodon_username: iwwnyc
 github_username: iwwnyc
+keybase_username: iwwnyc
 
 social:
   name: IWW NYC GMB
@@ -30,6 +31,7 @@ social:
     - https://facebook.com/iwwnyc
     - https://mastodon.social/@iwwnyc
     - https://github.com/iwwnyc
+    - https://keybase.io/iwwnyc
 
 twitter:
   username: iwwnyc
