@@ -1,0 +1,67 @@
+---
+layout: none
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/iwwnyc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iww.nyc
+  * I am iwwnyc (https://keybase.io/iwwnyc) on keybase.
+  * I have a public key with fingerprint 4A31 32A8 CC7F B1CE F018  A60F B604 A905 3C53 A296
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116ed36c546fdcf4fac5a5b75d8b1ef755ed6e2dfebd38113be02d59440376468340a",
+      "fingerprint": "4a3132a8cc7fb1cef018a60fb604a9053c53a296",
+      "host": "keybase.io",
+      "key_id": "b604a9053c53a296",
+      "kid": "0116ed36c546fdcf4fac5a5b75d8b1ef755ed6e2dfebd38113be02d59440376468340a",
+      "uid": "7ff2ceb31f938c671f7cbbded9ccfd19",
+      "username": "iwwnyc"
+    },
+    "service": {
+      "hostname": "iww.nyc",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1577162977,
+  "expire_in": 157680000,
+  "prev": "a82c967cf9cae8987f3d147d5ab0fe368e17c2566d32db3ab7ba5d7a7e595516",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yME8AnicrVK/ixQxGJ3VPcHlBKttBIsUVss5mUySybKNWFgcCHJgJTfkx5e9sHsz
+czOzu67H6b9gJSLaCAqChZXWioVgaWuheLWoIGhxYLIoNpamCXl57+Xl8b0+dTzq
+9Z93n6yNth7e6bx9eXsWbXfuftxHqjRLNNxHE1htMDXQtPnEGTREMcYMDGGapswa
+bVMrNZVUcWoyhcFySsEwSIwFZUiGMVEQJ4aKNI0JZynLSBpLNEDWFWOoq9oVrbdN
+JcEkkZnW3CqswcY4kyy2isWpFDElmhKZCOaFO2UTFD6ckg1suNJj/pCv4v2D/59z
+z1Z23NpEgyLYCpJpxrHlWikDRmhtDRaB2EBdyF3wbLdYFEuNDgbIY3OnIdQa/vH3
+fiMQBqiqy7bU5dSDO21bNcMgapdVYC1A5b/1uXKF8QV6xRzqxpUFGmLP1K0Lhphy
+jlkiOB8guF65GnJXrGCWxX6Fd2DuLWWWaMG4tkJLyETGLTE45YZKFVsgLAPMdUIZ
+MyQxikjFlaSGSw5UUIpDvQ3sFSUapj6mHHvLxo0L2c5qQAevtrtRvxedWDsW5irq
+nTz9Z9q+djtRs7nFvycX33x+8P7q0ebPo8viyvrNvVvnpmS6O3q0bjtRn366djh6
+9/Txj6Q6f2mRfyi/HNJv987ev3Fh8uLZmegXObHeUQ==
+=1Tgx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iwwnyc
+
+==================================================================
