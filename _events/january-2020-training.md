@@ -1,11 +1,11 @@
 ---
 layout: event
-title: Organizer Training 101 (Waitlisted)
+title: Organizer Training 101 (Closed)
 date: 'Saturday, January 4, 2020'
 last-date: 'Sunday, January 5, 2020'
 time: '9:00 AM - 5:00 PM'
 ---
-![]({{ site.baseurl }}/assets/uploads/ot101-waiting-list.jpg)
+![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
 # Agitate! ✩ Educate! ✩ Organize! ✩
 
 Join the IWW for a two day training on workplace organizing! This introductory training thoroughly covers the foundations of organizing on the job, focusing on collective action and building your organizing committee.
