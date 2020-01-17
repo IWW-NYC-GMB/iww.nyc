@@ -5,6 +5,7 @@ date: 2019-10-08T05:00:00.000Z
 permalink: '/:categories/:year/:i_month/:i_day/:slug'
 netlify: true
 newsletter: false
+redirect_from: /nails
 ---
 The New York City General Membership Branch of the Industrial Workers of the World is unequivocally opposed to the city’s plan to spend $10.6 billion to build four new jails.
 We furthermore dispute all claims that new jails must be built in order to close Rikers Island.
