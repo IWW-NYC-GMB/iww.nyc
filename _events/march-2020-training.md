@@ -4,6 +4,7 @@ title: Organizer Training 101
 date: 'Saturday, March 14, 2020'
 last-date: 'Sunday, March 15, 2020'
 time: '9:00 AM - 5:00 PM'
+redirect_from: /training
 ---
 ![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
 # Agitate! ✩ Educate! ✩ Organize! ✩
