@@ -15,10 +15,11 @@
         <a href="{{ site.baseurl }}/join" class="page-link{% if page.url contains '/join/' %} current{% endif %}">Join</a>
         <a href="{{ site.baseurl }}/events" class="page-link{% if page.url contains '/events/' %} current{% endif %}">Events</a>
         <div id="dropdown">
-          <a href="{{ site.baseurl }}/gmb" class="page-link{% if page.url contains '/gmb/' or page.url == '/gdc/' or page.url == '/rustys/' or page.url == '/bylaws/' or page.url == '/resources/' %} current{% endif %}">About</a>
+          <a href="{{ site.baseurl }}/gmb" class="page-link{% if page.url contains '/gmb/' or page.url == '/gdc/' or page.url == '/safer-space/' or page.url == '/rustys/' or page.url == '/bylaws/' or page.url == '/resources/' %} current{% endif %}">About</a>
           <div id="dropdown-content">
             <a href="{{ site.baseurl }}/gmb/" class="page-link{% if page.url == '/gmb/' %} current{% endif %}">General Membership Branch</a>
             <a href="{{ site.baseurl }}/gdc/" class="page-link{% if page.url contains '/gdc/' %} current{% endif %}">General Defense Committee</a>
+            <a href="{{ site.baseurl }}/safer-space/" class="page-link{% if page.url contains '/safer-space/' %} current{% endif %}">Safer Space Policy</a>
             <a href="https://incarceratedworkers.org/branches/new-york-city" class="page-link">Incarcerated Workers Organizing Committee</a>
             <a href="https://freelancejournalistsunion.org" class="page-link">Freelance Journalists Union</a>
             <a href="https://www.stardustfamilyunited.com" class="page-link">Stardust Family United</a>
@@ -34,6 +35,7 @@
         <optgroup label="About">
           <option value="{{ site.baseurl }}/gmb/" {% if page.url contains '/gmb/' %}selected{% endif %}>General Membership Branch</option>
           <option value="{{ site.baseurl }}/gdc/" {% if page.url contains '/gdc/' %}selected{% endif %}>General Defense Committee</option>
+          <option value="{{ site.baseurl }}/safer-space/" {% if page.url contains '/safer-space/' %}selected{% endif %}>Safer Space Policy</option>
           <option value="https://incarceratedworkers.org/branches/new-york-city">Incarcerated Workers Organizing Committee</option>
           <option value="https://freelancejournalistsunion.org">Freelance Journalists Union</option>
           <option value="https://www.stardustfamilyunited.com">Stardust Family United</option>
