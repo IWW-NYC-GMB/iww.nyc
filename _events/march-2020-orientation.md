@@ -11,7 +11,7 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch for an orientation and social!
 
-**WHERE:** Location TBD
+**WHERE:** [David Rubenstein Atrium at Lincoln Center](https://goo.gl/maps/YFADBbJsYu2bWrKTA)
 
 **WHEN:** Tuesday, March 3rd, at 7:30pm
 
@@ -19,8 +19,7 @@ Join the IWW New York City General Membership Branch for an orientation and soci
 
 Agenda:
 
-* 7:30pm: Social (with snacks!)
-* 8:15pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
+Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
 For a good primer on the IWW's structure and purpose, read [One Big Union](https://iww.org/about/official/OBU) (you'll get a printed copy when you join, either in-person or [online](https://redcard.iww.org/user/register)).
 
