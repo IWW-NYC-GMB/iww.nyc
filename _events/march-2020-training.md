@@ -1,12 +1,12 @@
 ---
 layout: event
-title: Organizer Training 101
+title: Organizer Training 101 (Watilist)
 date: 'Saturday, March 14, 2020'
 last-date: 'Sunday, March 15, 2020'
 time: '9:00 AM - 5:00 PM'
 redirect_from: /training
 ---
-![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
+![]({{ site.baseurl }}/assets/uploads/ot101-waiting-list.jpg)
 # Agitate! ✩ Educate! ✩ Organize! ✩
 
 Join the IWW for a two day training on workplace organizing! This introductory training thoroughly covers the foundations of organizing on the job, focusing on collective action and building your organizing committee.
