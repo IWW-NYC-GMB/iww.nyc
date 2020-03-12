@@ -8,7 +8,7 @@ redirect_from: /training
 ---
 ![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
 
-❗️***This event has been cancelled out of an abundance of caution during on ongoing COVID-19 pandemic***❗
+❗️***This event has been cancelled out of an abundance of caution during the ongoing COVID-19 pandemic***❗
 
 # Agitate! ✩ Educate! ✩ Organize! ✩
 
