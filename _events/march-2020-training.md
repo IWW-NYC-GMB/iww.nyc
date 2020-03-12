@@ -6,7 +6,7 @@ last-date: 'Sunday, March 15, 2020'
 time: '9:00 AM - 5:00 PM'
 redirect_from: /training
 ---
-![]({{ site.baseurl }}/assets/uploads/ot101-waiting-list.jpg)
+![]({{ site.baseurl }}/assets/uploads/ot101.jpg)
 
 ❗️***This event has been cancelled out of an abundance of caution during on ongoing COVID-19 pandemic***❗
 
