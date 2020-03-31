@@ -29,7 +29,7 @@ The training is free but attendees with the income to do so are asked to make a 
 
 Hosted by IWW NYC and Brandworkers
 
-Register at [iww.nyc/covid](https://iww.nyc/covid)
+# Register at [iww.nyc/covid](https://iww.nyc/covid)
 
 Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) if you have any questions.
 
