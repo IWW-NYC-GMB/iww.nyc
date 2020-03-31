@@ -2,7 +2,7 @@
 layout: event
 title: We're Not Going Back: Workplace Organizing for Long-Term Power During COVID-19
 date: 'Tuesday, April 7, 2020'
-time: '5:00 AM'
+time: '5:00 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/covid-4-7.png)
 
@@ -28,6 +28,8 @@ Daniel Gross is the founder and executive director of Brandworkers. Brandworkers
 The training is free but attendees with the income to do so are asked to make a contribution and/or serve as a fundraiser for the COVID-19 Organizing Fund via Brandworkers May Day Campaign: https://brandworkers.org/mayday/
 
 Hosted by IWW NYC and Brandworkers
+
+Register at [iww.nyc/covid](https://iww.nyc/covid)
 
 Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) if you have any questions.
 
