@@ -14,22 +14,22 @@ This training webinar will help you acquire essential workplace organizing funda
 
 Training topics include:
 
-1) An organizing approach to COVID-19 mutual aid
-2) A strategy making framework for the crisis and for the long-term
-3) Tips on centering racial and gender justice in your workplace organizing
-4) The role of unions and other worker organizations
-5) The legal context of COVID-19 emergency organizing
+1) An organizing approach to COVID-19 mutual aid<br>
+2) A strategy making framework for the crisis and for the long-term<br>
+3) Tips on centering racial and gender justice in your workplace organizing<br>
+4) The role of unions and other worker organizations<br>
+5) The legal context of COVID-19 emergency organizing<br>
 6) And much more
 
 About the Trainer:
 
 Daniel Gross is the founder and executive director of Brandworkers. Brandworkers is an organization of specialty food manufacturing workers building an industry-wide solidarity union with the Industrial Workers of the World. Previously, Daniel co-founded the IWW Starbucks Workers and represented Brandworkers in the founding of the Food Chain Workers Alliance. Trained as an attorney, Daniel has coached and developed tools to support workers building unions and worker centers in a wide variety of industries across the country. He is the co-author with Staughton Lynd of Labor Law for the Rank & Filer: Building Solidarity While Staying Clear of the Law.
 
-The training is free but attendees with the income to do so are asked to make a contribution and/or serve as a fundraiser for the COVID-19 Organizing Fund via Brandworkers May Day Campaign: https://brandworkers.org/mayday/
+The training is free but attendees with the income to do so are asked to make a contribution and/or serve as a fundraiser for the COVID-19 Organizing Fund via Brandworkers May Day Campaign: [brandworkers.org/mayday](https://brandworkers.org/mayday/)
 
-Hosted by IWW NYC and Brandworkers
+Hosted by IWW NYC and [Brandworkers](https://brandworkers.org)
 
-# Register at [iww.nyc/covid](https://iww.nyc/covid)
+# Register at [iww.nyc/covid](https://iww.nyc/covid)<br>
 
 Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) if you have any questions.
 
