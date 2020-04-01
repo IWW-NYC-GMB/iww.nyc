@@ -14,12 +14,12 @@ This training webinar will help you acquire essential workplace organizing funda
 
 Training topics include:
 
-1) An organizing approach to COVID-19 mutual aid<br>
-2) A strategy making framework for the crisis and for the long-term<br>
-3) Tips on centering racial and gender justice in your workplace organizing<br>
-4) The role of unions and other worker organizations<br>
-5) The legal context of COVID-19 emergency organizing<br>
-6) And much more
+1. An organizing approach to COVID-19 mutual aid
+2. A strategy making framework for the crisis and for the long-term
+3. Tips on centering racial and gender justice in your workplace organizing
+4. The role of unions and other worker organizations
+5. The legal context of COVID-19 emergency organizing
+6. And much more
 
 About the Trainer:
 
@@ -29,7 +29,7 @@ The training is free but attendees with the income to do so are asked to make a 
 
 Hosted by IWW NYC and [Brandworkers](https://brandworkers.org)
 
-# Register at [iww.nyc/covid](https://iww.nyc/covid)<br>
+# Register at [iww.nyc/covid](https://iww.nyc/covid)<br><br>
 
 Email us at <mailto:organize@iww.nyc> ([public key](/assets/keys/publickey.organize@iww.nyc.asc)) if you have any questions.
 
