@@ -1,6 +1,6 @@
 ---
 layout: event
-title: We're Not
+title: We're Not Going Back:
 date: 'Tuesday, April 7, 2020'
 time: '5:00 PM'
 ---
