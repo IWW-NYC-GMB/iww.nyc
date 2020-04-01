@@ -1,6 +1,6 @@
 ---
 layout: event
-title: We're Not Going Back • Workplace Organizing for Long-Term Power During COVID-19
+title: We're Not Going Back\: Workplace Organizing for Long-Term Power During COVID-19
 date: 'Tuesday, April 7, 2020'
 time: '5:00 PM'
 ---
