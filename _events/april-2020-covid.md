@@ -1,6 +1,6 @@
 ---
 layout: event
-title: test
+title: We're Not
 date: 'Tuesday, April 7, 2020'
 time: '5:00 PM'
 ---
