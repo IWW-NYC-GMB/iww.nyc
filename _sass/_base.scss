@@ -160,6 +160,19 @@
 }
 
 .next-orientation-header {
+  display: none;
+  text-align: center;
+  background-color: rgba(34,34,34,1);
+  color: #FFFFFF;
+  padding: 8px;
+  font-family: 'Mukta', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+.alert-header {
   text-align: center;
   background-color: rgba(34,34,34,1);
   color: #FFFFFF;
