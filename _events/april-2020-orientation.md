@@ -2,7 +2,7 @@
 layout: event
 title: April IWW Orientation & Social
 date: 'Saturday, April 11, 2020'
-time: '3:30 PM - 5:30 PM'
+time: '3:30 PM - 4:45 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/silent-agitator-evening.jpg)
 # ★ SO YOU WANNA BE A WOBBLY? ★
@@ -11,7 +11,7 @@ Do you work in an industry? Then you are an industrial worker — and you belong
 
 Join the IWW New York City General Membership Branch for an orientation and social!
 
-**WHERE:** Location TBD
+**WHERE:** Meeting to be held over videoconference. Please email <mailto:orientation@iww.nyc> for information on how to access this event.
 
 **WHEN:** Saturday, April 11th, at 3:30pm
 
@@ -19,8 +19,7 @@ Join the IWW New York City General Membership Branch for an orientation and soci
 
 Agenda:
 
-* 3:30pm: Social (with snacks!)
-* 4:15pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
+* 3:30pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
 For a good primer on the IWW's structure and purpose, read [One Big Union](https://iww.org/about/official/OBU) (you'll get a printed copy when you join, either in-person or [online](https://redcard.iww.org/user/register)).
 
