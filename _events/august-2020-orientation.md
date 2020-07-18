@@ -1,8 +1,8 @@
 ---
 layout: event
 title: IWW Orientation
-date: 'Tursday, July 2, 2020'
-time: '7:00 PM - 8:00 PM'
+date: 'Sunday, August 2, 2020'
+time: '3:30 PM - 4:30 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/silent-agitator-evening.jpg)
 # ★ SO YOU WANNA BE A WOBBLY? ★
@@ -21,7 +21,7 @@ Join the IWW New York City General Membership Branch for an orientation!
 
 #### Agenda:
 
-• 7:00pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
+• 3:30pm: Orientation - Find out what the IWW is all about! We’ll fill you in on all the campaigns, committees, and working groups you can get involved in. Delegates will be there, ready to sign up anyone who wants to join on the spot.
 
 For a good primer on the IWW's structure and purpose, read [One Big Union](https://iww.org/about/official/OBU) (you'll get a printed copy when you join, either in-person or online)
 
@@ -30,4 +30,4 @@ Join the IWW online at [Red Card](https://redcard.iww.org/user/register)
 
 Email <mailto:organize@wobblycity.org> ([public key](/assets/keys/publickey.organize@wobblycity.org.asc)) with any questions.
 
-[Facebook Event](https://www.facebook.com/events/1170218063346959/)
+[Facebook Event](https://www.facebook.com/events/251216562969479/)

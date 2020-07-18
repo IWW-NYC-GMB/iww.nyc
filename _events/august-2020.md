@@ -1,7 +1,7 @@
 ---
 layout: event
-title: General Membership Branch · July Meeting
-date: 'Tuesday, July 14, 2020'
+title: General Membership Branch · August Meeting
+date: 'Tuesday, August 11, 2020'
 time: '7:00 PM - 9:00 PM'
 ---
 ![]({{ site.baseurl }}/assets/uploads/meeting.png)
