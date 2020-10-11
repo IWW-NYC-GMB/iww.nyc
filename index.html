@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="home">
+  {%- assign siteTime = site.time | date: '%s' -%}
+  {%- assign meetingDate = site.data.upcoming["next_meeting_date"] | date: '%s' -%}
+  {%- assign orientationDate = site.data.upcoming["next_orientation_date"] | date: '%s' -%}
     <h3 style="text-align:center;font-weight:700;font-size:25px;"><em>The IWW is a union for all workers — <a href="{{ site.baseurl }}/obu">One Big Union!</a><br>
     Join the NYC General Membership Branch today!</em></h3>
     <div style="text-align:center;">
@@ -18,16 +21,29 @@ layout: default
     <p style="text-align:center;">
         Having trouble at work? Want to organize with your coworkers against your boss? Contact the IWW today and meet with experienced IWW organizers, attend an organizer training, and, with the mentorship and guidance of other Wobblies, build a union with your fellow workers at your job and in your industry. Get in touch with us by emailing <a href="mailto:organize@iww.nyc">organize@iww.nyc</a>. Read <a href="{{ site.baseurl }}/weakening-the-dam"><em>Weakening the Dam</em></a> to get a short primer on what an organzing campaign with the IWW could look like.<br><br>
     </p>
+
+    {%- if siteTime < orientationDate and site.data.upcoming["next_orientation_date"] != '' and site.data.upcoming["next_orientation_time"] != '' and site.data.upcoming["next_orientation_url"] != '' -%}
+
     <hr style="margin:20px 0 50px 0;">
       <p style="text-align:center;font-weight:700;font-size:22px;">The next orientation for new members will be on {{ site.data.upcoming["next_orientation_date"] }}. <a href="{{ site.data.upcoming["next_orientation_url"] }}">Details ▸</a></p>
       <p style="text-align:center;font-size:18px;"><br>
         We ask that that new members attend an orientation before attending branch meetings to become familiar with the structure of the branch and meeting procedure. Orientations are also great opportunities for people who are interested in the IWW to learn more about the union. View upcoming orientations on our <a href="{{ site.baseurl }}/events">events</a> page.
       </p><br>
+
+    {%- endif -%}
+
     <hr style="margin:20px 0 50px 0;">
-    <p style="text-align:center;font-weight:700;font-size:22px;">IWW NYC General Membership Branch meetings are held the second Tuesday of each month from {{ site.data.upcoming["next_meeting_time"] }}.</p>
+    <p style="text-align:center;font-weight:700;font-size:22px;">IWW NYC General Membership Branch meetings are usually held on the second Tuesday of each month from {{ site.data.upcoming["next_meeting_time"] }}.</p>
+
+    {%- if siteTime < meetingDate and site.data.upcoming["next_meeting_date"] != '' and site.data.upcoming["next_meeting_time"] != '' and site.data.upcoming["next_meeting_url"] != '' -%}
+
     <p style="text-align:center;font-size:18px;"><br>
     <em>The next meeting of the IWW NYC General Membership Branch will be on {{ site.data.upcoming["next_meeting_date"] }}. <a href="{{ site.data.upcoming["next_meeting_url"] }}">Details ▸</a></em>
-    </p><br>
+    </p>
+
+    {%- endif -%}
+
+    <br>
     <hr style="margin:20px 0 50px 0;">
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup" style="text-align:center;background:rgba(0,0,0,.05);padding:40px 110px 15px 110px;">
