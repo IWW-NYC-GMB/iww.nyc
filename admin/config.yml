@@ -1,7 +1,7 @@
 backend:
  name: github
- repo: IWW-NYC-GMB/iww.nyc
-  
+ repo: iww/iww.nyc
+
 #backend:
 # name: test-repo
 
