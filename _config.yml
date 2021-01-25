@@ -47,9 +47,10 @@ kramdown:
   input: GFM
 
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 collections:
   events:
