@@ -270,24 +270,31 @@ hr {
 }
 
 .social-icons {
+  display: inline-flex;
+  flex-direction: row;
   margin-left: auto;
   margin-right: auto;
-}
+  text-align: center;
 
-.social-icon {
-  width: 50px;
-  height: 50px;
-  fill: #000000;
-}
+  svg {
+    width: 50px;
+    height: 50px;
+    fill: #000;
+  }
 
-.social-icons:hover > a {
-  opacity: 0.3;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-}
+  a {
+    text-decoration: none;
+    transition: opacity 0.4s;
+    transform: translateZ(0);
+  }
 
-.social-icons:hover a:hover {
-    opacity: 1.0 !important;
+  &:hover > a {
+    opacity: 0.3;
+  }
+
+  &:hover a:hover {
+      opacity: 1.0 !important;
+  }
 }
 
 #footer_text {
