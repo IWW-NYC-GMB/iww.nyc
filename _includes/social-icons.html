@@ -1,5 +1,5 @@
 <div class="social-icons">
-	{% for account in site.social_icons %}
+	{% for account in site.social_media_accounts %}
 		{%- if account.twitter -%}
 			<a href="https://twitter.com/{{ account.twitter | uri_escape | escape }}" target="_blank">
 				<svg id="twitter-icon" viewBox="0 0 64 64">
