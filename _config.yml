@@ -16,7 +16,7 @@ defaults:
     values:
       image: /assets/social.png
 
-social_icons:
+social_media_accounts:
   - twitter: iwwnyc
   - instagram: iwwnyc
   - facebook: iwwnyc
