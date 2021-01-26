@@ -16,12 +16,14 @@ defaults:
     values:
       image: /assets/social.png
 
-twitter_username: iwwnyc
-instagram_username: iwwnyc
-facebook_username: iwwnyc
-mastodon_username: iwwnyc
-github_username: iwwnyc
-keybase_username: iwwnyc
+social_icons:
+  - twitter_username: iwwnyc
+  - instagram_username: iwwnyc
+  - facebook_username: iwwnyc
+  - mastodon_username: iwwnyc
+#   instance: default is 'mastodon.social'
+  - github_username: iwwnyc
+  - keybase_username: iwwnyc
 
 social:
   name: IWW NYC GMB
