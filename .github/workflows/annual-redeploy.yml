@@ -1,0 +1,16 @@
+name: Annual Redeploy (Cloudflare Pages)
+
+on:
+  schedule:
+    - cron: '0 0 1 1 *'  # At 00:00 on January 1st (UTC)
+  workflow_dispatch:      # Allows manual trigger
+
+jobs:
+  trigger-redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cloudflare Pages Redeploy
+        run: |
+          curl -X POST "$CF_PAGES_BUILD_HOOK_URL"
+        env:
+          CF_PAGES_BUILD_HOOK_URL: ${{ secrets.CF_PAGES_BUILD_HOOK_URL }}
