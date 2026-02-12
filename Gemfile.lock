@@ -69,6 +69,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler (~> 2.5)
   jekyll
   jekyll-paginate
   jekyll-redirect-from
@@ -78,4 +79,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.5.0
