@@ -2,9 +2,9 @@
 layout: none
 permalink: /.well-known/security.txt
 ---
-Contact: mailto:security@iww.nyc
-Contact: mailto:organize@iww.nyc
-Contact: https://iww.nyc/contact/
-Encryption: https://iww.nyc/assets/keys/publickey.organize@iww.nyc.asc
+Contact: mailto:security@iwwnyc.org
+Contact: mailto:organize@iwwnyc.org
+Contact: https://iwwnyc.org/contact/
+Encryption: https://iwwnyc.org/assets/keys/publickey.organize@iww.nyc.asc
 Preferred-Languages: en
-Canonical: https://iww.nyc/.well-known/security.txt
+Canonical: https://iwwnyc.org/.well-known/security.txt
