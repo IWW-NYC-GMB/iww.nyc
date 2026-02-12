@@ -1,1 +1,1 @@
-Sitemap: https://iww.nyc/sitemap.xml
+Sitemap: https://iwwnyc.org/sitemap.xml
