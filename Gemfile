@@ -12,3 +12,7 @@ gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 gem 'jekyll-redirect-from'
 gem "webrick", "~> 1.7"
+
+# Required for Ruby 3.4 compatibility
+gem "csv"
+gem "logger"
